@@ -1,0 +1,6 @@
+[NP (DT The) (NN input) ] [VP (VBZ contains) ] [NP (JJ several) (NN floor) (NNS descriptions) ] (. .)
+[NP (DT Every) (NN description) ] [VP (VBZ starts) ] [PP (IN with) ] [NP (DT the) (NN number) (NNP N) ] [PP (IN of) ] [NP (NNS vertices) ] [SBAR (IN that) ] [VP (VBN bound) ] [NP (DT the) (NN floor) ] (. .)
+[NP (DT The) (JJ next) (NNP N) (NNS lines) ] [VP (VBP contain) ] [NP (CD two) (NNS integers) ] [NP (DT each) ] (, ,) [NP (DT the) (NNP X) (CC and) (NNP Y) ] [VP (VBZ coordinates) ] [PP (IN for) ] [NP (DT the) (NNP N) (NNS vertices) ] (, ,) [PP (VBN given) ] [PP (IN in) ] [NP (JJ clockwise) (NN order) ] (. .)
+[NP (DT All) (NNS vertices) ] [VP (MD will) (VB be) ] [ADJP (JJ distinct) ] [ADVP (CC and) ] [PP (IN at) ] [NP (NNS corners) ] [PP (IN of) ] [NP (DT the) (NN polygon) ] (. .)
+[ADVP (RB Thus) ] [NP (DT the) (NNS edges) ] [ADJP (JJ alternate) ] [PP (IN between) ] [NP (JJ horizontal) (CC and) (JJ vertical) ] (. .)
+[NP (NNP A) (CD zero) (NN value) ] [PP (IN for) ] [NP (NNP N) ] [VP (VBZ indicates) ] [NP (DT the) (NN end) ] [PP (IN of) ] [NP (DT the) (NN input) ] (. .)

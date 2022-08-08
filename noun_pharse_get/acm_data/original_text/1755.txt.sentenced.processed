@@ -1,0 +1,4 @@
+The first line of the input file contains integer number N , denoting the number of contestants. 
+
+Then N lines follow, each line contains three integers VI, UI and WI , separated by spaces, denoting the speed of ith contestant in each section. 
+

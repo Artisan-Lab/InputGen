@@ -1,0 +1,8 @@
+The input file contains several lines of input. 
+
+Each line contains a single integer L that indicates the number of locations in the city. 
+
+Input is terminated by a line where value of L is zero. 
+
+This line should not be processed. 
+

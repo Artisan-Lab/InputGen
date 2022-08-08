@@ -1,0 +1,12 @@
+The input contains several test cases. 
+
+The first line of each test case contain two integer numbers N,M, denoting the number of rows and columns of the farm. 
+
+The following N lines each contains M characters, describe the farm. 
+
+A '#' means a blocked square, a '.' 
+
+means a unblocked square. 
+
+The last test case is followed by two zeros. 
+

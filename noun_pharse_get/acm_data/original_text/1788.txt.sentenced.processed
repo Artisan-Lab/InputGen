@@ -1,0 +1,12 @@
+The input consists of several blocks. 
+
+The first line of each block contains a single number P, 1 <= P <= 100 000. 
+
+P is the number of posts which have been built. 
+
+Each of the following P lines contains two integers X and Y, 0 <= X, Y <= 10 000, which represent coordinates of the posts in MFF internal units . 
+
+No two posts have the same coordinates. 
+
+Each block is followed by a single empty line and the input is terminated by a line containing a single number 0. 
+

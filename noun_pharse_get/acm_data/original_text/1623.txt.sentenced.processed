@@ -1,0 +1,12 @@
+Input will consist of multiple problem instances. 
+
+Each instance will start with a single line containing two integers N and M, indicating the number of rows and columns in the image. 
+
+The maximum values for these integers is 128. 
+
+The next N lines will each contain M characters representing the image to process. 
+
+A black pixel will be represented by a '1', and a white pixel will be represented by a '0'. 
+
+The input line 0 0 will terminate input and should not be processed. 
+

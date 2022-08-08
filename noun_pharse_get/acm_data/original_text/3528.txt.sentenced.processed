@@ -1,0 +1,4 @@
+The first line contains one number N -- the number of battleships. 
+
+Following N lines each contains three integers presenting the position of one battleship. 
+

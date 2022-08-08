@@ -1,0 +1,7 @@
+[NP (DT The) (NN input) (NN file) ] [VP (VBZ contains) ] [NP (JJ several) (NN jury) (NN selection) (NNS rounds) ] (. .)
+[NP (DT Each) (NN round) ] [VP (VBZ starts) ] [PP (IN with) ] [NP (DT a) (NN line) ] [VP (VBG containing) ] [NP (CD two) (NNS integers) (NNP N) (CC and) (NNP M) ] (. .)
+[NP (NNP N) ] [VP (VBZ is) ] [NP (DT the) (NN number) ] [PP (IN of) ] [NP (NNS candidates) ] (CC and) [NP (NNP M) ] [NP (DT the) (NN number) ] [PP (IN of) ] [NP (NN jury) (NNS members) ] (. .)
+[NP (DT These) (NNS values) ] [VP (MD will) (VB satisfy) ] [NP (CD 1) (NN <) (SYM =) (NNP N) (NN <) (SYM =) (CD 200) (, ,) (CD 1) (NN <) (SYM =) (NNP M) (NN <) (SYM =) (CD 20) (CC and) ] [PP (IN of) ] [NP (NN course) (NNP M) (NN <) ] [NP (SYM =) (NNP N) ] (. .)
+[NP (DT The) (VBG following) (NNP N) (NNS lines) ] [VP (VBP contain) ] [NP (DT the) (CD two) (NNS integers) (NNP PI) (CC and) (NNP DI) ] [PP (IN for) ] [NP (NNP I) (SYM =) (CD 1) ] (, ,) (: ...) (, ,) [NP (NNP N) ] (. .)
+[NP (NNP A) (JJ blank) (NN line) ] [VP (VBZ separates) ] [NP (DT each) (NN round) ] [PP (IN from) ] [NP (DT the) (JJ next) ] (. .)
+[NP (DT The) (NN file) ] [VP (VBZ ends) ] [PP (IN with) ] [NP (DT a) (NN round) ] [NP (WDT that) ] [VP (VBZ has) ] [NP (NNP N) (SYM =) (NNP M) (SYM =) (CD 0) ] (. .)

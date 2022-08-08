@@ -1,0 +1,4 @@
+[NP (NNP Input) ] [VP (VBZ consists) ] [PP (IN of) ] [NP (DT a) (NN number) ] [PP (IN of) ] [NP (NN test) (NNS cases) ] (. .)
+[NP (DT Each) (NN case) ] [VP (MD will) (VB be) ] [NP (DT a) (NN line) ] [VP (VBG containing) ] [NP (DT a) (JJ single) (JJR integer) (NNP N) (, ,) (CD 1) (NN <) (SYM =) (NNP N) (NN <) ] [NP (SYM =) (CD 300000) ] (. .)
+[NP (DT An) (NN input) ] [PP (IN of) ] [NP (CD 0) ] [VP (VBZ follows) ] [NP (DT the) (JJ last) (NN test) (NN case) ] (. .)
+[VP (VB Note) ] [SBAR (IN that) ] [NP (DT the) (NN portion) ] [PP (IN of) ] [NP (DT the) (NNP EKG) (NN sequence) ] [NP (WDT that) ] [VP (VBZ contains) ] [NP (DT all) (NNS integers) (NN <) ] [VP (SYM =) ] [NP (CD 300,000) ] [VP (MD will) (RB not) (VB contain) ] [NP (DT an) (NN integer) (NN >) ] [NP (CD 1,000,000) ] (. .)

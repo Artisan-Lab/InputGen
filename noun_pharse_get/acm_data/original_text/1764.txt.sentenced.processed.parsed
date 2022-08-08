@@ -1,0 +1,5 @@
+[NP (DT The) (JJ first) (NN line) ] [PP (IN of) ] [NP (DT the) (NN input) ] [VP (VBZ contains) ] [NP (CD six) (NNS integers) (NNP L1) (, ,) (NNP L2) (, ,) (NNP L3) (, ,) (NNP L4) (, ,) (NNP L5) (, ,) (NNP L6) (JJ separated) ] [PP (IN by) ] [NP (JJ single) (NNS spaces) ] (. .)
+[NP (NN Integer) (NNP LI) ] [VP (VBZ is) ] [NP (DT the) (NN number) ] [VP (VBN written) ] [PP (IN on) ] [NP (DT a) (NN side) ] [VP (VBG having) ] [NP (RB originally) (NNP I) (NN dots) ] (. .)
+[NP (DT The) (JJ second) (NN line) ] [PP (IN of) ] [NP (DT the) (NN input) ] [VP (VBZ contains) ] [NP (CD four) (NNS integers) (NNP X1) (, ,) (NNP Y1) (, ,) (NNP X2) (, ,) (NNP Y2) (JJ separated) ] [PP (IN by) ] [NP (JJ single) (NNS spaces) ] (. .)
+[NP (NNS Integers) (NNP X1) (, ,) (NNP Y1) ] [VP (VBP are) ] [NP (DT the) (NN column) ] (CC and) [NP (DT the) (NN row) (NN number) ] [PP (IN of) ] [NP (DT the) (VBG starting) (NN square) ] [ADVP (RB respectively) ] (. .)
+[NP (NNS Integers) (NNP X2) (, ,) (NNP Y2) ] [VP (VBP are) ] [NP (DT the) (NN column) ] (CC and) [NP (DT the) (NN row) (NN number) ] [PP (IN of) ] [NP (DT the) (NN target) ] [ADVP (RB square) (RB respectively) ] (. .)

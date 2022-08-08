@@ -1,0 +1,4 @@
+The rst and only line of the input contains exactly two integers N and M separated by a single space, 1 <= M <= N <= 100 - the parameters of the game, where N is the number of donuts in the box at the beginning of the game and M is the upper limit on the number of donuts to be taken by one player in one move. 
+
+Process to the end of file. 
+

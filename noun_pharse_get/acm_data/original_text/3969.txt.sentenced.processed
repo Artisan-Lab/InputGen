@@ -1,0 +1,8 @@
+The first line of the input file contains two integer numbers N and M, where N is the number of vertices in the graph , M is the number of edges in the graph . 
+
+The following M lines describe edges of the graph, each edge is described by two integers AI, BI — the vertex numbers connected by this edge. 
+
+Each edge is listed at most once. 
+
+The graph in the input file is connected, so there is a path between any pair of vertices. 
+

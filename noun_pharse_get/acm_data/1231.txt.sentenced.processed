@@ -1,0 +1,14 @@
+The first line of the input file contains a single integer T , the number of test cases, followed by the input data for each test case. 
+
+The first line of each test case consists of two integers K , the number of different letters, and P , the number of instances of each letter. 
+
+Followed by the first line, there are K lines, one for each letter, each containing P pairs of integers for 1 <= I <= P. 
+
+A pair indicates coordinates of the cell on the paper where one instance of the letter is written. 
+
+The coordinates of the upper left cell of the paper is assumed to be . 
+
+Coordinates are positive integers less than or equal to 1,000,000. 
+
+You may assume that no cell contains more than one letter. 
+

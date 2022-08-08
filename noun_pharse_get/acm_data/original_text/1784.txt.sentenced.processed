@@ -1,0 +1,16 @@
+The input contains several test cases. 
+
+Every test case starts with an integer N. 
+
+You may assume that 1<=N<=200. 
+
+Then follow 2N+1 non-negative integers denoting frequencies. 
+
+Let S be the sum of all frequencies. 
+
+You may assume that 1<=S<=1000000. 
+
+The probabilities P1,...,PN and Q0,...,QN are calculated in this order by dividing the frequencies by S. 
+
+The last test case is followed by a zero. 
+

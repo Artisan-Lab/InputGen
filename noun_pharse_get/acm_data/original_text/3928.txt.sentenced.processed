@@ -1,0 +1,12 @@
+The first line of the input contains an integer T, indicating the number of test cases, followed by T lines each of which describes a test case. 
+
+Every test case consists of N + 1 integers. 
+
+The first integer is N, the number of players. 
+
+Then N distinct integers A1, A2 ... 
+
+aN follow, indicating the skill rank of each player, in the order of west to east. 
+
+. 
+

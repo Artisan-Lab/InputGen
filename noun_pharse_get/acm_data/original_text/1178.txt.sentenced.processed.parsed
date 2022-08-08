@@ -1,0 +1,6 @@
+[NP (PRP$ Your) (NN program) ] [VP (VBZ is) ] [VP (TO to) (VB read) ] [PP (IN from) ] [NP (JJ standard) (NN input) ] (. .)
+[NP (DT The) (NN input) ] [VP (VBZ contains) ] [NP (DT the) (JJ initial) (NN board) (NN configuration) ] (, ,) [VP (VBN encoded) ] [PP (IN as) ] [NP (DT a) (NN character) (NN string) ] (. .)
+[NP (DT The) (NN string) ] [VP (VBZ contains) ] [NP (DT a) (NN sequence) ] [PP (IN of) ] [NP (IN up) (TO to) (CD 64) (JJ distinct) (NN board) (NNS positions) ] (, ,) [VP (VBG being) ] [NP (DT the) (JJ first) (CD one) ] [NP (DT the) (NN position) ] [PP (IN of) ] [NP (DT the) (NN king) ] (CC and) [NP (DT the) (VBG remaining) (NNS ones) ] [NP (DT those) ] [PP (IN of) ] [NP (DT the) (NNS knights) ] (. .)
+[NP (DT Each) (NN position) ] [VP (VBZ is) ] [NP (DT a) (JJ letter-digit) (NN pair) ] (. .)
+[NP (DT The) (NN letter) ] [VP (VBZ indicates) ] [NP (DT the) (JJ horizontal) (NN board) ] [VP (VB coordinate) ] (, ,) [NP (DT the) (NN digit) ] [VP (VBZ indicates) ] [NP (DT the) (JJ vertical) (NN board) ] [VP (VB coordinate) ] (. .)
+[NP (CD 0) (NN <) (SYM =) (NN number) ] [PP (IN of) ] [NP (NNS knights) (NN <) ] [NP (SYM =) (CD 63) ] (. .)

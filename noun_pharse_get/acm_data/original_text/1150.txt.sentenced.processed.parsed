@@ -1,0 +1,2 @@
+[NP (DT The) (NN input) ] [VP (VBZ contains) ] [NP (JJ several) (NNS lines) ] [PP (IN of) ] [NP (NN input) ] (. .)
+[NP (DT Each) (NN line) ] [PP (IN of) ] [NP (DT the) (NN input) (NN file) ] [VP (VBZ contains) ] [NP (CD two) (NNS integers) (NNP N) (, ,) (NNP M) ] (. .)

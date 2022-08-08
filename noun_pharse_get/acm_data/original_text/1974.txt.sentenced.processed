@@ -1,0 +1,10 @@
+The first line of the input contains a single integer T , the number of test cases, followed by the input data for each test case. 
+
+The first line of each test case contains three integers M, N, and K . 
+
+The input for this test case will be followed by K lines. 
+
+Each line contains two integers which specify the row and column of a stone. 
+
+No stone will be given twice. 
+

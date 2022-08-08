@@ -1,0 +1,2 @@
+[NP (DT The) (JJ first) (NN line) ] [VP (VBZ contains) ] [NP (DT a) (JJR integer) (NNP T) ] (, ,) [VP (VBG indicating) ] [SBAR (IN that) ] [NP (EX there) ] [VP (VBP are) ] [NP (NNP T) (NN test) (NNS cases) ] [PP (VBG following) ] (. .)
+[NP (DT Each) (NN test) (NN case) ] [VP (VBZ is) ] [NP (DT a) (NN line) ] [VP (VBG consisting) ] [PP (IN of) ] [NP (CD two) (JJR integer) (NNP N) (CC and) (NNP K) ] (. .)

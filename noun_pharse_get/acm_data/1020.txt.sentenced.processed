@@ -1,0 +1,4 @@
+The first line of the input file contains a single integer T , the number of test cases, followed by input data for each test case. 
+
+Each test case consist of a single line containing an integer S, the side of the cake, followed by an integer N , the number of cake pieces, followed by N integers specifying the side of each piece. 
+

@@ -1,0 +1,5 @@
+[NP (DT The) (JJ first) (NN line) ] [PP (IN of) ] [NP (DT the) (NN input) ] [VP (VBZ contains) ] [NP (DT a) (JJ single) (JJR integer) (NNP T) ] (, ,) [NP (DT the) (NN number) ] [PP (IN of) ] [NP (NN test) (NNS cases) ] (, ,) [VP (VBN followed) ] [PP (IN by) ] [NP (DT the) (NN input) (NNS data) ] [PP (IN for) ] [NP (DT each) (NN test) (NN case) ] (. .)
+[NP (DT The) (JJ first) (NN line) ] [PP (IN of) ] [NP (DT each) (NN test) (NN case) ] [VP (VBZ contains) ] [NP (CD three) (NNS integers) (NNP M) (, ,) (NNP N) (, ,) (CC and) (NNP K) ] (. .)
+[NP (DT The) (NN input) ] [PP (IN for) ] [NP (DT this) (NN test) (NN case) ] [VP (MD will) (VB be) (VBN followed) ] [PP (IN by) ] [NP (NNP K) (NNS lines) ] (. .)
+[NP (DT Each) (NN line) ] [VP (VBZ contains) ] [NP (CD two) (NNS integers) ] [NP (WDT which) ] [VP (VB specify) ] [NP (DT the) (NN row) (CC and) (NN column) ] [PP (IN of) ] [NP (DT a) (NN stone) ] (. .)
+[NP (DT No) (NN stone) ] [VP (MD will) (VB be) (VBN given) ] [ADVP (RB twice) ] (. .)

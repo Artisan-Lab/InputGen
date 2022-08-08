@@ -1,0 +1,4 @@
+[NP (PRP$ Your) (NN program) ] [VP (VBZ is) ] [VP (TO to) (VB read) ] [PP (IN from) ] [NP (JJ standard) (NN input) ] (. .)
+[NP (DT The) (NN input) ] [VP (VBZ consists) ] [PP (IN of) ] [NP (CD four) (NNS lines) ] (. .)
+[NP (DT Each) (NN line) ] [VP (VBZ describes) ] [NP (CD one) (VBN given) (NN rectangle) ] [PP (IN by) ] [NP (CD two) (JJ positive) (NNS integers) ] (: :) [NP (DT the) (NNS lengths) ] [PP (IN of) ] [NP (DT the) (NNS sides) ] [PP (IN of) ] [NP (DT the) (NN rectangle) ] (. .)
+[NP (DT Each) (NN side) ] [PP (IN of) ] [NP (DT a) (NN rectangle) ] [VP (VBZ is) ] [NP (IN at) (JJS least) (CD 1) (CC and) ] [PP (IN at) ] [NP (JJS most) (CD 50) ] (. .)

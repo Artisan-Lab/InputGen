@@ -1,0 +1,12 @@
+The first line of the input contains exactly one positive integer D equal to the number of data sets, 1 <= D <= 20. 
+
+The data sets follow. 
+
+The first line of each data set contains exactly one integer N, 1 <= N <= 8 000, equal to the number of vertical line segments. 
+
+Each of the following N lines consists of exactly 3 nonnegative integers separated by single spaces: YI', YI'', XI - Y-coordinate of the beginning of a segment, Y-coordinate of its end and its X-coordinate, respectively. 
+
+The coordinates satisfy 0 <= YI' < YI'' <= 8 000, 0 <= XI <= 8 000. 
+
+The segments are disjoint. 
+

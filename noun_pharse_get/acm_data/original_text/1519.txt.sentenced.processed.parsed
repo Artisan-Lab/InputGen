@@ -1,0 +1,2 @@
+[NP (DT The) (NN input) (NN file) ] [VP (MD will) (VB contain) ] [NP (DT a) (NN list) ] [PP (IN of) ] [NP (JJ positive) (NNS integers) ] (, ,) [NP (CD one) ] [PP (IN per) ] [NP (NN line) ] (. .)
+[NP (DT The) (NN end) ] [PP (IN of) ] [NP (DT the) (NN input) ] [VP (MD will) (VB be) (VBN indicated) ] [PP (IN by) ] [NP (DT an) (JJ integer) (NN value) ] [PP (IN of) ] [NP (CD zero) ] (. .)

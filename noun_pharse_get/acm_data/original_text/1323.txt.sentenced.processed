@@ -1,0 +1,10 @@
+The input consists of several test cases. 
+
+The first line of each case contains two integers M and N , representing the number of players and the number of cards each player receives at the beginning of the game, respectively. 
+
+This followed by a line with N positive integers, representing the pips of cards you received at the beginning. 
+
+Then a blank line follows to separate the cases. 
+
+The input is terminated by a line with two zeros. 
+

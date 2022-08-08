@@ -1,0 +1,16 @@
+The input consists of several data sets. 
+
+Each set begins with a line containing the number N of stacks Bob has built. 
+
+The next line contains N numbers, the heights HI of the N stacks. 
+
+You may assume 1 <= N <= 50 and 1 <= HI <= 100. 
+
+The total number of bricks will be divisible by the number of stacks. 
+
+Thus, it is always possible to rearrange the bricks such that all stacks have the same height. 
+
+The input is terminated by a set starting with N=0. 
+
+This set should not be processed. 
+

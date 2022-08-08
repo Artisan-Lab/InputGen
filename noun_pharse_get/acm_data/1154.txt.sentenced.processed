@@ -1,0 +1,6 @@
+The first line of the input contains two integers R and C, separated by a single blank character, 1 <= R, S <= 20. 
+
+The following R lines contain S characters each. 
+
+Each line represents one row in the board. 
+

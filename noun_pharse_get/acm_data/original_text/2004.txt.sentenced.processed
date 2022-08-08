@@ -1,0 +1,8 @@
+The input contains at least two, but no more than 10000 lines. 
+
+Each line contains a word. 
+
+The length of each word is at least 1 and no more than 20. 
+
+All words in the input are distinct. 
+

@@ -1,0 +1,8 @@
+Your program is to read from standard input. 
+
+The input consists of four lines. 
+
+Each line describes one given rectangle by two positive integers: the lengths of the sides of the rectangle. 
+
+Each side of a rectangle is at least 1 and at most 50. 
+

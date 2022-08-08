@@ -1,0 +1,8 @@
+[NP (DT The) (NN input) ] [VP (VBZ contains) ] [NP (JJ several) (NN test) (NNS cases) ] (. .)
+[NP (DT Every) (NN test) (NN case) ] [VP (VBZ starts) ] [PP (IN with) ] [NP (DT an) (JJ integer) (NNP N) ] (. .)
+[NP (PRP You) ] [VP (MD may) (VB assume) ] [NP (IN that) (CD 1) (NN <) (SYM =) (NNP N) (NN <) (SYM =) (CD 200) ] (. .)
+(RB Then) [VP (VB follow) ] [NP (NN 2N) (NN +) (CD 1) (NN non-negative) (NNS integers) ] [VP (VBG denoting) ] [NP (NNS frequencies) ] (. .)
+[VP (VB Let) ] [NP (NNP S) ] [VP (VB be) ] [NP (DT the) (NN sum) ] [PP (IN of) ] [NP (DT all) (NNS frequencies) ] (. .)
+[NP (PRP You) ] [VP (MD may) (VB assume) ] [NP (IN that) (CD 1) (NN <) (SYM =) (NNP S) (NN <) (SYM =) (CD 1000000) ] (. .)
+[NP (DT The) (NNS probabilities) (NNP P1) ] (, ,) (: ...) (, ,) [NP (NNP PN) (CC and) (NNP Q0) ] (, ,) (: ...) (, ,) [NP (NNP QN) ] [VP (VBP are) (VBN calculated) ] [PP (IN in) ] [NP (DT this) (NN order) ] [PP (IN by) ] [VP (VBG dividing) ] [NP (DT the) (NNS frequencies) ] [PP (IN by) ] [NP (NNP S) ] (. .)
+[NP (DT The) (JJ last) (NN test) (NN case) ] [VP (VBZ is) (VBN followed) ] [PP (IN by) ] [NP (DT a) (CD zero) ] (. .)

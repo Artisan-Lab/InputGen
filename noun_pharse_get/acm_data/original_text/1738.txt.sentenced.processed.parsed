@@ -1,0 +1,4 @@
+[NP (DT The) (NN input) ] [VP (VBZ contains) ] [NP (JJ several) (NN test) (NNS cases) ] (. .)
+[NP (DT The) (JJ first) (NN line) ] [PP (IN of) ] [NP (DT each) (NN test) (NN case) ] [VP (VBZ contains) ] [NP (DT an) (JJR integer) (NNP N) ] (, ,) [VP (VBG denoting) ] [NP (DT the) (NN number) ] [PP (IN of) ] [NP (NNS piles) ] (. .)
+[NP (DT The) (VBG following) (NNP N) (NNS integers) ] [VP (VBP describe) ] [NP (DT the) (NN number) ] [PP (IN of) ] [NP (NNS stones) ] [PP (IN in) ] [NP (DT each) (NN pile) ] [PP (IN at) ] [NP (DT the) (NN beginning) ] [PP (IN of) ] [NP (DT the) (NN game) ] (. .)
+[NP (DT The) (JJ last) (NN test) (NN case) ] [VP (VBZ is) (VBN followed) ] [PP (IN by) ] [NP (CD one) (CD zero) ] (. .)

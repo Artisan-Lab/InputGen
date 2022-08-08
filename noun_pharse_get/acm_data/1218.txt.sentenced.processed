@@ -1,0 +1,6 @@
+The first line of input contains a single positive integer. 
+
+This is the number of lines that follow. 
+
+Each of the following lines contains a single integer between 5 and 100, inclusive, which is the number of cells N. 
+

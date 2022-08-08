@@ -1,0 +1,8 @@
+The first line of the input file contains a single integer N — the number of watchtowers. 
+
+The next N lines of the input file contain the Cartesian coordinates of watchtowers, one pair of coordinates per line. 
+
+Coordinates are integer and do not exceed 106 by absolute value. 
+
+Towers are listed in the order of traversal of their convex hull in clockwise direction. 
+

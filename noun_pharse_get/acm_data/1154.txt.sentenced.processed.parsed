@@ -1,0 +1,3 @@
+[NP (DT The) (JJ first) (NN line) ] [PP (IN of) ] [NP (DT the) (NN input) ] [VP (VBZ contains) ] [NP (CD two) (NNS integers) (NNP R) (CC and) (NNP C) ] (, ,) [ADJP (JJ separated) ] [PP (IN by) ] [NP (DT a) (JJ single) (JJ blank) (NN character) ] (, ,) [NP (CD 1) (NN <) (SYM =) (NNP R) (, ,) (NNP S) (NN <) (SYM =) (CD 20) ] (. .)
+[NP (DT The) (VBG following) (NN R) (NNS lines) ] [VP (VBP contain) ] [NP (NNP S) (NNS characters) ] [NP (DT each) ] (. .)
+[NP (DT Each) (NN line) ] [VP (VBZ represents) ] [NP (CD one) (NN row) ] [PP (IN in) ] [NP (DT the) (NN board) ] (. .)

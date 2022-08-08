@@ -1,0 +1,10 @@
+Your program is supposed to read the input from the standard input and write its output to the standard output. 
+
+The first line of the input contains one integer N . 
+
+N lines follow, the I-th of them contains two real numbers XI, YI separated by a single space - the coordinates of the I-th house. 
+
+Each of the following lines contains four real numbers X1, Y1, X2, Y2 separated by a single space. 
+
+These numbers are the coordinates of two different points [X1, Y1] and [X2, Y2], lying on the highway. 
+

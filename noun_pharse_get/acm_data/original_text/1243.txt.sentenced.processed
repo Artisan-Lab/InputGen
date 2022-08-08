@@ -1,0 +1,6 @@
+The input consists of a number of cases. 
+
+Each case is specified by one line containing two integers G and L, separated by one space. 
+
+The end of input is specified by a line in which G=L=0. 
+

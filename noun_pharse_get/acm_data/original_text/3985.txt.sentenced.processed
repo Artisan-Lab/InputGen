@@ -1,0 +1,10 @@
+The first line contains an integer T indicating the number of test cases. 
+
+Each test case begins with a line containing four integer: FX FY TX TY. 
+
+The knight is originally placed at and is its destination. 
+
+The following line contains an integer M, indicating how many kinds of moves the knight can make. 
+
+Each of the following M lines contains two integer MX MY, which means that if a knight stands at , it can move to . 
+

@@ -1,0 +1,3 @@
+[NP (DT The) (JJ first) (NN line) ] [PP (IN of) ] [NP (DT the) (NN input) (NN file) ] [VP (VBZ contains) ] [NP (CD two) (JJR integer) (NNS numbers) (NNP N) (CC and) (NNP M) ] (. .)
+[NP (DT The) (JJ second) (NN line) ] [PP (IN of) ] [NP (DT the) (NN input) (NN file) ] [VP (VBZ contains) ] [NP (NNP N) (JJR integer) (NNS numbers) (NNP PI) (JJ separated) ] [PP (IN by) ] [NP (NNS spaces) ] (. .)
+[NP (DT The) (JJ third) (NN line) ] [PP (IN of) ] [NP (DT the) (NN input) (NN file) ] [VP (VBZ contains) ] [NP (NNP M) (JJR integer) (NNS numbers) (NNP QI) (JJ separated) ] [PP (IN by) ] [NP (NNS spaces) ] (. .)

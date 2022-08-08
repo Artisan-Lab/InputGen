@@ -1,0 +1,6 @@
+The input file consists of a sequence of positive integers, one integer per line. 
+
+Each integer will have at most 8 digits. 
+
+The input is terminated by a line containing the number 0. 
+

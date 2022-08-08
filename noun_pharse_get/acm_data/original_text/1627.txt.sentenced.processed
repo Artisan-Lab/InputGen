@@ -1,0 +1,4 @@
+The first line of input file contains three positive integers 2<=K<= 30, 2<=S<=10000, 0<= M <=20 where M is the number of experiments Vasya has already conducted. 
+
+The next M lines contain K numbers each, one line per experiment. 
+

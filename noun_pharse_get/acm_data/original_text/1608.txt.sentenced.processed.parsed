@@ -1,0 +1,4 @@
+[NP (DT The) (JJ first) (NN line) ] [PP (IN of) ] [NP (DT the) (NN input) (NN file) ] [VP (VBZ contains) ] [NP (DT an) (JJR integer) (NNP N) ] (. .)
+[NP (DT The) (JJ next) (NN line) ] [VP (VBZ contains) ] [NP (DT a) (NN string) ] [VP (VBG representing) ] [NP (DT the) (NN ticket) (NN number) ] (. .)
+[SBAR (IN If) ] [NP (DT some) (NN digit) ] [VP (VBZ is) (VBN punched) ] [PRT (IN out) ] [NP (PRP it) ] [VP (VBZ is) (VBN denoted) ] [PP (IN by) ] [NP (NN ") ] (. ?) [NP (NN ") ] (. .)
+[ADVP (RB otherwise) ] [NP (PRP it) ] [VP (VBZ is) (VBN denoted) ] [PP (IN by) ] [NP (PRP itself) ] (. .)

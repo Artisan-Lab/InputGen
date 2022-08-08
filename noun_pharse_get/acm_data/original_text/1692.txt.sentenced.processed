@@ -1,0 +1,12 @@
+The first line of the input is the number M, which is the number of test cases . 
+
+Each test case has three lines. 
+
+The first line contains N1 and N2, the number of integers on the first and the second row respectively. 
+
+The next line contains N1 integers which are the numbers on the first row. 
+
+The third line contains N2 integers which are the numbers on the second row. 
+
+All numbers are positive integers less than 100. 
+

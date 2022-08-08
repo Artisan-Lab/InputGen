@@ -1,0 +1,2 @@
+[NP (DT The) (JJ first) (NN line) ] [PP (IN of) ] [NP (DT the) (NN input) ] [VP (VBZ contains) ] [NP (DT a) (JJ single) (JJR integer) (NNP T) (NN –) ] [NP (DT a) (NN number) ] [PP (IN of) ] [NP (NN test) (NNS cases) ] (. .)
+[NP (DT Each) ] [PP (IN of) ] [NP (DT the) (JJ next) (NNP T) (NNS lines) ] [VP (VBZ contains) ] [NP (CD two) (NNS integers) ] [ADJP (JJ separated) ] [PP (IN by) ] [NP (DT a) (JJ single) (NN space) (NN –) (NNP A) (CC and) (NNP B) ] (. .)

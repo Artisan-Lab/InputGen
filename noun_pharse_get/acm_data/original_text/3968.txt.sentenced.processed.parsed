@@ -1,0 +1,4 @@
+[NP (DT The) (JJ first) (NN line) ] [PP (IN of) ] [NP (DT the) (NN input) (NN file) ] [VP (VBZ contains) ] [NP (DT a) (JJ single) (JJR integer) (NNP N) (NN —) ] [NP (DT the) (NN number) ] [PP (IN of) ] [NP (NNS watchtowers) ] (. .)
+[NP (DT The) (JJ next) (NNP N) (NNS lines) ] [PP (IN of) ] [NP (DT the) (NN input) (NN file) ] [VP (VBP contain) ] [NP (DT the) (JJ Cartesian) ] [VP (VBZ coordinates) ] [PP (IN of) ] [NP (NNS watchtowers) ] (, ,) [NP (CD one) (NN pair) ] [PP (IN of) ] [NP (VBZ coordinates) ] [PP (IN per) ] [NP (NN line) ] (. .)
+[NP (NNS Coordinates) ] [VP (VBP are) ] [ADJP (RBR integer) ] (CC and) [VP (VBP do) (RB not) (VB exceed) ] [NP (CD 106) ] [PP (IN by) ] [NP (JJ absolute) (NN value) ] (. .)
+[NP (NNP Towers) ] [VP (VBP are) (VBN listed) ] [PP (IN in) ] [NP (DT the) (NN order) ] [PP (IN of) ] [NP (NN traversal) ] [PP (IN of) ] [NP (PRP$ their) (NN convex) (NN hull) ] [PP (IN in) ] [NP (JJ clockwise) (NN direction) ] (. .)

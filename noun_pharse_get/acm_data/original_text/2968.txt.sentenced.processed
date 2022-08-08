@@ -1,0 +1,6 @@
+The first line of the input contains one integer number N . 
+
+Each of the next N lines contains two real numbers XI, YI , separated by one space. 
+
+It is guaranteed that at least one necklace exists. 
+

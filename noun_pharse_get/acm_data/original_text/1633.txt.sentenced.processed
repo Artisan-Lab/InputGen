@@ -1,0 +1,4 @@
+On the first line of input is a single positive integer N, telling the number of test scenarios to follow.Each 
+
+test scenario consists of one line containing two non negative integers M and K, where M <= 50 is the number of obstacles, and K is the point of difficulty asked for. 
+

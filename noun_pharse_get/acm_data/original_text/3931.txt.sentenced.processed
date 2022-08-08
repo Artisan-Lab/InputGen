@@ -1,0 +1,8 @@
+The input consists of several cases. 
+
+Every case is one line with two positive integer M and K. 
+
+M is Mike'S number in the game, and K is the total number of people remained in the circle when Mike was going to be kicked out. 
+
+The input ends with a line containing two zero. 
+

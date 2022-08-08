@@ -1,0 +1,6 @@
+[NP (DT The) (NN input) (NN file) ] [VP (VBZ contains) ] [NP (JJ several) (NNS descriptions) ] [PP (IN of) ] [NP (NN fastfood) (NNS chains) ] (. .)
+[NP (DT Each) (NN description) ] [VP (VBZ starts) ] [PP (IN with) ] [NP (DT a) (NN line) ] [VP (VBG containing) ] [NP (DT the) (CD two) (NNS integers) (NNP N) (CC and) (NNP K) ] (. .)
+[NP (NNP N) (CC and) (NNP K) ] [VP (MD will) (VB satisfy) ] [NP (CD 1) (NN <) (SYM =) (NNP N) (NN <) (SYM =) (CD 200) (, ,) (CD 1) (NN <) (SYM =) (NNP K) (NN <) (SYM =) (CD 30) (, ,) (NNP K) (NN <) (SYM =) (NNP N) ] (. .)
+[PP (VBG Following) ] [NP (DT this) ] [UCP (MD will) ] [NP (NNP N) (NNS lines) ] [VP (VBG containing) ] [NP (CD one) (RBR integer) (DT each) ] (, ,) [VP (VBG giving) ] [NP (DT the) (NNS positions) (NNP DI) ] [PP (IN of) ] [NP (DT the) (NNS restaurants) ] (, ,) [VP (VBN ordered) ] [ADVP (RB increasingly) ] (. .)
+[NP (DT The) (NN input) (NN file) ] [VP (MD will) (VB end) ] [PP (IN with) ] [NP (DT a) (NN case) (VBG starting) ] [PP (IN with) ] [NP (NNP N) (SYM =) (NNP K) (SYM =) (CD 0) ] (. .)
+[NP (DT This) (NN case) ] [VP (MD should) (RB not) (VB be) (VBN processed) ] (. .)

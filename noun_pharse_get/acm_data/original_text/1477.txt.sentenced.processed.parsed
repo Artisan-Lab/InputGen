@@ -1,0 +1,8 @@
+[NP (DT The) (NN input) ] [VP (VBZ consists) ] [PP (IN of) ] [NP (JJ several) (NNS data) (NNS sets) ] (. .)
+[NP (DT Each) (NN set) ] [VP (VBZ begins) ] [PP (IN with) ] [NP (DT a) (NN line) ] [VP (VBG containing) ] [NP (DT the) (NN number) (NNP N) ] [PP (IN of) ] [NP (NNS stacks) ] [NP (NNP Bob) ] [VP (VBZ has) (VBN built) ] (. .)
+[NP (DT The) (JJ next) (NN line) ] [VP (VBZ contains) ] [NP (NNP N) (NNS numbers) ] (, ,) [NP (DT the) (NNS heights) (NNP HI) ] [PP (IN of) ] [NP (DT the) (NNP N) (NNS stacks) ] (. .)
+[NP (PRP You) ] [VP (MD may) (VB assume) ] [NP (CD 1) (NN <) (SYM =) (NNP N) (NN <) (SYM =) (CD 50) (CC and) (CD 1) (NN <) (SYM =) (NNP HI) (NN <) (SYM =) (CD 100) ] (. .)
+[NP (DT The) (JJ total) (NN number) ] [PP (IN of) ] [NP (NNS bricks) ] [VP (MD will) (VB be) ] [ADJP (JJ divisible) ] [PP (IN by) ] [NP (DT the) (NN number) ] [PP (IN of) ] [NP (NNS stacks) ] (. .)
+[ADVP (RB Thus) ] (, ,) [NP (PRP it) ] [VP (VBZ is) ] [ADVP (RB always) ] [ADJP (JJ possible) ] [VP (TO to) (VB rearrange) ] [NP (DT the) (NNS bricks) ] [PP (JJ such) (IN that) ] [NP (DT all) (NNS stacks) ] [VP (VBP have) ] [NP (DT the) (JJ same) (NN height) ] (. .)
+[NP (DT The) (NN input) ] [VP (VBZ is) (VBN terminated) ] [PP (IN by) ] [NP (DT a) (NN set) (VBG starting) ] [PP (IN with) ] [NP (NNP N) (SYM =) (CD 0) ] (. .)
+[NP (DT This) (NN set) ] [VP (MD should) (RB not) (VB be) (VBN processed) ] (. .)

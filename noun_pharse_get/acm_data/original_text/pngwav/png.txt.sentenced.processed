@@ -1,0 +1,6 @@
+A PNG input starts with a file signature containing 8 integer bytes, followed by several chunks. 
+
+Each chunk consists of an unsigned integer L, the length of chunk'S data field, followed by 4 character bytes, the chunk type code, followed by the data field of L integer bytes. 
+
+The chunk contains a CRC field of 4 bytes at the end. 
+

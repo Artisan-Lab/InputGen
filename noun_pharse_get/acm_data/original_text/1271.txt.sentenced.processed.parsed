@@ -1,0 +1,6 @@
+[NP (DT The) (NN input) ] [VP (MD will) (VB contain) ] [NP (RB no) (JJR more) (IN than) (CD 10) (NN test) (NNS cases) ] (. .)
+[NP (DT Each) (NN test) (NN case) ] [VP (VBZ begins) ] [PP (IN with) ] [NP (DT a) (NN line) ] [VP (VBG containing) ] [NP (CD three) (NNS integers) (NNP N) (, ,) (NNP K) (CC and) (NNP H) ] (. .)
+[NP (NNP A) (NN piece) ] [PP (IN of) ] [NP (NN bread) ] [VP (VBZ is) (VBN guaranteed) (TO to) (VB be) ] [NP (DT a) (NN convex) (NN polygon) ] [PP (IN of) ] [NP (NNP N) (NNS vertices) ] (. .)
+[PP (IN In) ] [NP (DT the) (VBG following) (NNP N) (NNS lines) ] (, ,) [NP (DT each) (NN line) ] [VP (VBZ contains) ] [NP (CD two) (NNS integers) (NNP XI) (CC and) (NNP YI) ] (, ,) [VP (VBG representing) ] [NP (DT the) (NN Cartesianism) ] [VP (VB coordinate) ] [PP (IN of) ] [NP (DT the) (NN ith) (NN vertex) ] (. .)
+[NP (DT The) (NNS vertices) ] [VP (VBP are) ] [ADJP (JJ anti-clockwise) ] [VP (VBD numbered) ] (. .)
+[NP (DT The) (NN test) (NN case) ] [VP (VBG containing) ] [NP (NNP N) (SYM =) (CD 0) (, ,) (NNP K) (SYM =) (CD 0) (, ,) (NNP H) (SYM =) (CD 0) ] [VP (MD will) (VB terminate) ] [NP (DT the) (NN input) ] (, ,) [NP (PRP you) ] [VP (MD should) (RB not) (VB give) ] [NP (DT an) (NN answer) ] [PP (TO to) ] [NP (DT this) (NN case) ] (. .)

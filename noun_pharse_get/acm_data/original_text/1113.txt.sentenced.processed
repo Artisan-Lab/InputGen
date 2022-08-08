@@ -1,0 +1,10 @@
+The first line of the input file contains two integer numbers N and L separated by a space. 
+
+N is the number of vertices in the King'S castle, and L is the minimal number of feet that King allows for the wall to come close to the castle. 
+
+Next N lines describe coordinates of castle'S vertices in a clockwise order. 
+
+Each line contains two integer numbers XI and YI separated by a space that represent the coordinates of ith vertex. 
+
+All vertices are different and the sides of the castle do not intersect anywhere except for vertices. 
+

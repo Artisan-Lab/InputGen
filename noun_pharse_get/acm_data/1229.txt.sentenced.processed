@@ -1,0 +1,6 @@
+The first line of the input file contains a single integer T , the number of test cases, followed by the input data for each test case. 
+
+Each test case consists of two lines, each containing a domain pattern. 
+
+Each domain pattern is at most 255 characters long, and does not include any leading or trailing blank characters. 
+

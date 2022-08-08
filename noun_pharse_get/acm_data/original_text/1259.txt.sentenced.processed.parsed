@@ -1,0 +1,8 @@
+[NP (DT The) (JJ first) (NN line) ] [PP (IN of) ] [NP (DT the) (NN input) ] [VP (VBZ contains) ] [NP (DT a) (JJ single) (JJ positive) (RBR integer) (NNP N) ] (, ,) [VP (VBG specifying) ] [NP (DT the) (NN number) ] [PP (IN of) ] [NP (NN test) (NNS scenarios) ] [VP (TO to) (VB follow) ] (. .)
+[NP (DT Each) (NN test) (NN scenario) ] [VP (VBZ begins) ] [PP (IN with) ] [NP (DT a) (NN line) ] [VP (VBG containing) ] [NP (DT an) (RBR integer) (NNP M) ] (, ,) [NP (DT the) (NN number) ] [PP (IN of) ] [NP (NNS obstacles) ] [PP (IN in) ] [NP (DT the) (NN park) ] (. .)
+[NP (DT The) (JJ next) (NN line) ] [VP (VBZ contains) ] [NP (DT the) (VBZ coordinates) ] [PP (IN of) ] [NP (DT the) (NNP M) (NNS obstacles) ] (, ,) [PP (IN in) ] [NP (DT the) (NN order) (NNP X1) (NNP Y1) (NNP X2) (NNP Y2) (NNP X3) (NNP Y3) ] (. .)
+(. .)
+(. .)
+(. .)
+[NP (DT All) ] [VP (VBZ coordinates) ] [NP (VBP are) (NNS integers) ] [PP (IN in) ] [NP (DT the) (NN range) (-LRB- [) (CD 0) (, ,) (CD 1000) (-RRB- ]) ] (. .)
+[NP (DT Each) (NN scenario) ] [VP (VBZ has) ] [NP (IN at) (JJS least) (CD three) (NNS obstacles) ] [NP (WDT that) ] [VP (VBP are) ] (RB not) [PP (IN on) ] [NP (DT a) (JJ straight) (NN line) ] (, ,) (CC and) [NP (DT no) (CD two) (NNS obstacles) ] [VP (VBP have) ] [NP (DT the) (JJ same) ] [VP (VBZ coordinates) ] (. .)

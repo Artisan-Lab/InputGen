@@ -1,0 +1,1 @@
+The input file contains several blocks each describing one pipe component. Each block starts with the number of bent points 2 <= n <= 20 on separate line. Each of the next n lines contains a pair of real values xi, yi separated by space. The last block is denoted with n = 0. 

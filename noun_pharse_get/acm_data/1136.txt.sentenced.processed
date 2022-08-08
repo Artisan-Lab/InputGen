@@ -1,0 +1,8 @@
+The input file contains several test cases. 
+
+Each case begins with a line containing an integer N and a real R . 
+
+The following N lines each contain two integers specifying the X- and Y-coordinate of the corresponding hook. 
+
+The file ends with a case having R=0, which should not be processed. 
+

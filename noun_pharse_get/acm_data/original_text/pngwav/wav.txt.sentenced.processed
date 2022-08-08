@@ -1,0 +1,14 @@
+The input WAVE file first contains a RIFF chunk. 
+
+The RIFF chunk consists of 4 characters, the ChunkID, followed by an integer ChunkSize, and then followed by 4 characters, the Format. 
+
+The FMT chunk of the WAVE file is the second chunk consisting of 4 characters Subchunk1ID, followed by an integer Subchunk1Size, the length of this chunk, and then followed by 2 bytes AudioFormat. 
+
+Next there are 2 bytes NumChannels, followed by two integers SampleRate and ByteRate, followed by 2 bytes BlockAlign and finally ends with 2 bytes BitsPerSample. 
+
+The WAVE file contains a DATA chunk in the end. 
+
+The DATA chunk consists of 4 characters Subchunk2ID, followed by an integer Subchunk2Size L. 
+
+The following L bytes are the sound data ending the file. 
+

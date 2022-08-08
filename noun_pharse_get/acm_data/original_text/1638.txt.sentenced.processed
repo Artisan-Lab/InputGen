@@ -1,0 +1,4 @@
+On the first line of the input is a single positive integer N, telling the number of test scenarios to follow. 
+
+Each scenario consists of a single line containing the positive integer M < 1000000, the number initially written on the blackboard. 
+

@@ -1,0 +1,8 @@
+The first line of the input contains three integers N , S and T.
+
+Each of the following N lines contains N integers. 
+
+If I knows J'S number, then the J-th number in the -th line will be 1, otherwise the number will be 0. 
+
+You can assume that the number of 1s will not exceed 5000 in the input. 
+

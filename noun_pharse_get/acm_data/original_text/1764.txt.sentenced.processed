@@ -1,0 +1,10 @@
+The first line of the input contains six integers L1, L2, L3, L4, L5, L6 separated by single spaces. 
+
+Integer LI is the number written on a side having originally I dots. 
+
+The second line of the input contains four integers X1, Y1, X2, Y2 separated by single spaces. 
+
+Integers X1, Y1 are the column and the row number of the starting square respectively. 
+
+Integers X2, Y2 are the column and the row number of the target square respectively. 
+

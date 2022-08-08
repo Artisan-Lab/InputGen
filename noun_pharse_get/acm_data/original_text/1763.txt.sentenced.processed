@@ -1,0 +1,10 @@
+The first line of the input contains one integer N being the number of sections of the route. 
+
+The second line of the input contains a sequence of N characters N, E, S or W with no spaces in between. 
+
+Each character is a description of one section of the route. 
+
+Character N, E, S or W means that Mirek walks 10 meters north, east, south or west respectively. 
+
+You may assume that at least one shortcut exists for the given route. 
+

@@ -1,0 +1,2 @@
+[NP (DT The) (JJ first) (NN line) ] [PP (IN of) ] [NP (NN input) ] [VP (VBZ contains) ] [NP (DT a) (JJ floating-point) (NN number) (NNP A) ] [PP (IN with) ] [NP (DT the) (NN precision) ] [PP (IN of) ] [NP (IN up) (TO to) (CD 15) (JJ decimal) (NNS digits) ] (. .)
+[NP (DT The) (JJ second) (NN line) ] [VP (VBZ contains) ] [NP (DT the) (JJ integer) (NN limit) (NNP L.) ] (. .)

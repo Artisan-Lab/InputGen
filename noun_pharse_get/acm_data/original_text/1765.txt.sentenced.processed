@@ -1,0 +1,12 @@
+The first line of the input contains one integer N being the number of segments of the roof. 
+
+Each of the next N lines describes one segment of the roof and contains four integers X1, Y1, X2, Y2 separated by single spaces. 
+
+Integers X1, Y1 are respectively the horizontal position and the height of the left end of the segment. 
+
+Integers X2, Y2 are respectively the horizontal position and the height of the right end of the segment. 
+
+The segments don'T have common points and there are no horizontal segments. 
+
+You can also assume that there are at most 25 segments placed above any point on the ground level. 
+

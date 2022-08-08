@@ -1,0 +1,3 @@
+[NP (DT The) (NN input) ] [VP (VBZ contains) ] [NP (JJ several) (NNS testcases) ] (. .)
+[NP (DT Each) ] [VP (VBZ is) (VBN specified) ] [PP (IN by) ] [NP (CD two) (NNS strings) (NNP S) (, ,) (NNP T) ] [PP (IN of) ] [NP (JJ alphanumeric) (NNP ASCII) (NNS characters) ] [ADJP (JJ separated) ] [PP (IN by) ] [NP (NN whitespace.The) ] (. .)
+[NP (NN length) ] [PP (IN of) ] [NP (NNP S) (CC and) (NNP T) ] [VP (MD will) (RB no) (JJR more) (IN than) ] [NP (CD 100000) ] (. .)

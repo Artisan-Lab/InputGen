@@ -1,0 +1,1 @@
+The input will consist of one or more lines. The first line contains three real numbers and a non-negative integer. The real numbers are V, R, and C, in that order. The integer, n, is the number of test cases. The following n lines of the input will have one real number per line. Each of these numbers is the angular frequency, .

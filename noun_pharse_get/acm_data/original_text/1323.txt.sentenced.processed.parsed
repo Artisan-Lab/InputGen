@@ -1,0 +1,5 @@
+[NP (DT The) (NN input) ] [VP (VBZ consists) ] [PP (IN of) ] [NP (JJ several) (NN test) (NNS cases) ] (. .)
+[NP (DT The) (JJ first) (NN line) ] [PP (IN of) ] [NP (DT each) (NN case) ] [VP (VBZ contains) ] [NP (CD two) (NNS integers) (NNP M) (CC and) (NNP N) ] (, ,) [VP (VBG representing) ] [NP (DT the) (NN number) ] [PP (IN of) ] [NP (NNS players) ] (CC and) [NP (DT the) (NN number) ] [PP (IN of) ] [NP (NNS cards) ] [NP (DT each) (NN player) ] [VP (VBZ receives) ] [PP (IN at) ] [NP (DT the) (NN beginning) ] [PP (IN of) ] [NP (DT the) (NN game) ] (, ,) [ADVP (RB respectively) ] (. .)
+[NP (DT This) ] [VP (VBD followed) ] [PP (IN by) ] [NP (DT a) (NN line) ] [PP (IN with) ] [NP (NNP N) (JJ positive) (NNS integers) ] (, ,) [VP (VBG representing) ] [NP (DT the) (NN pips) ] [PP (IN of) ] [NP (NNS cards) ] [NP (PRP you) ] [VP (VBD received) ] [PP (IN at) ] [NP (DT the) (NN beginning) ] (. .)
+[ADVP (RB Then) ] [NP (DT a) (JJ blank) (NN line) ] [VP (VBZ follows) ] [VP (TO to) (VB separate) ] [NP (DT the) (NNS cases) ] (. .)
+[NP (DT The) (NN input) ] [VP (VBZ is) (VBN terminated) ] [PP (IN by) ] [NP (DT a) (NN line) ] [PP (IN with) ] [NP (CD two) (NNS zeros) ] (. .)

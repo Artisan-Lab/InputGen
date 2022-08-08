@@ -1,0 +1,4 @@
+[NP (DT The) (NN input) (NN file) ] [VP (VBZ contains) ] [NP (JJ several) (NN test) (NNS cases) ] (. .)
+[NP (DT Each) (NN case) ] [VP (VBZ begins) ] [PP (IN with) ] [NP (DT a) (NN line) ] [VP (VBG containing) ] [NP (DT an) (RBR integer) (NNP N) (CC and) (DT a) (JJ real) (NNP R) ] (. .)
+[NP (DT The) (VBG following) (NNP N) (NNS lines) ] [NP (DT each) ] [VP (VBP contain) ] [NP (CD two) (NNS integers) ] [VP (VBG specifying) ] [NP (DT the) (NNP X) ] (: -) (CC and) [NP (NNP Y-coordinate) ] [PP (IN of) ] [NP (DT the) (JJ corresponding) (NN hook) ] (. .)
+[NP (DT The) (NN file) ] [VP (VBZ ends) ] [PP (IN with) ] [NP (DT a) (NN case) ] [VP (VBG having) ] [NP (NN R) (SYM =) (CD 0) ] (, ,) [NP (WDT which) ] [VP (MD should) (RB not) (VB be) (VBN processed) ] (. .)

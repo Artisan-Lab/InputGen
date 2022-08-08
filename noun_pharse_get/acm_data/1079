@@ -1,0 +1,1 @@
+input contains several pairs of positive integers. Each pair is on a line by itself, beginning in the first column and with a space between the two numbers.  The first number of a pair is the number of gaining stocks for the day, and the second number is the number of losing stocks for the day.   The total number of stocks never exceeds 5000. 

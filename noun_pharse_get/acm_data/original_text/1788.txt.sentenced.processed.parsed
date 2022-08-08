@@ -1,0 +1,6 @@
+[NP (DT The) (NN input) ] [VP (VBZ consists) ] [PP (IN of) ] [NP (JJ several) (NNS blocks) ] (. .)
+[NP (DT The) (JJ first) (NN line) ] [PP (IN of) ] [NP (DT each) (NN block) ] [VP (VBZ contains) ] [NP (DT a) (JJ single) (NN number) (NNP P) (, ,) (CD 1) (NN <) (SYM =) (NNP P) (NN <) ] [NP (SYM =) (CD 100) (CD 000) ] (. .)
+[NP (NNP P) ] [VP (VBZ is) ] [NP (DT the) (NN number) ] [PP (IN of) ] [NP (NNS posts) ] [NP (WDT which) ] [VP (VBP have) (VBN been) (VBN built) ] (. .)
+[NP (DT Each) ] [PP (IN of) ] [NP (DT the) (VBG following) (NNP P) (NNS lines) ] [VP (VBZ contains) ] [NP (CD two) (NNS integers) (NNP X) (CC and) (NNP Y) ] (, ,) [NP (CD 0) (NN <) (SYM =) (NNP X) (, ,) (NNP Y) (NN <) (SYM =) (CD 10) (CD 000) ] (, ,) [NP (WDT which) ] [VP (VBP represent) ] [NP (VBZ coordinates) ] [PP (IN of) ] [NP (DT the) (NNS posts) ] [PP (IN in) ] [NP (NNP MFF) (JJ internal) (NNS units) ] (. .)
+[NP (DT No) (CD two) (NNS posts) ] [VP (VBP have) ] [NP (DT the) (JJ same) ] [VP (VBZ coordinates) ] (. .)
+[NP (DT Each) (NN block) ] [VP (VBZ is) (VBN followed) ] [PP (IN by) ] [NP (DT a) (JJ single) (JJ empty) (NN line) ] (CC and) [NP (DT the) (NN input) ] [VP (VBZ is) (VBN terminated) ] [PP (IN by) ] [NP (DT a) (NN line) ] [VP (VBG containing) ] [NP (DT a) (JJ single) (NN number) (CD 0) ] (. .)

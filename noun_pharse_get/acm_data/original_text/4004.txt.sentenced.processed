@@ -1,0 +1,8 @@
+The input begins with a line containing an integer T , the number of test cases. 
+
+Each test case contains 10 lines. 
+
+Each line contains three integers T, S and P indicating a single card'S information - T is the type , S is the speed, and P is the power of the card. 
+
+The first five cards belong to Alice , and the last five cards belong to Bob . 
+

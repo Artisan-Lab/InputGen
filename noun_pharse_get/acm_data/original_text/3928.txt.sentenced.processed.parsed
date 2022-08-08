@@ -1,0 +1,6 @@
+[NP (DT The) (JJ first) (NN line) ] [PP (IN of) ] [NP (DT the) (NN input) ] [VP (VBZ contains) ] [NP (DT an) (JJR integer) (NNP T) ] (, ,) [VP (VBG indicating) ] [NP (DT the) (NN number) ] [PP (IN of) ] [NP (NN test) (NNS cases) ] (, ,) [VP (VBN followed) ] [PP (IN by) ] [NP (NNP T) (NNS lines) ] [NP (DT each) ] [PP (IN of) ] [NP (WDT which) ] [VP (VBZ describes) ] [NP (DT a) (NN test) (NN case) ] (. .)
+[NP (DT Every) (NN test) (NN case) ] [VP (VBZ consists) ] [PP (IN of) ] [NP (NNP N) (NN +) (CD 1) (NNS integers) ] (. .)
+[NP (DT The) (JJ first) (NN integer) ] [VP (VBZ is) ] [NP (NNP N) ] (, ,) [NP (DT the) (NN number) ] [PP (IN of) ] [NP (NNS players) ] (. .)
+(RB Then) [NP (NNP N) (JJ distinct) (NNS integers) (NNP A1) (, ,) (NNP A2) ] (. .)
+[NP (NN aN) ] [VP (VBP follow) ] (, ,) [VP (VBG indicating) ] [NP (DT the) (NN skill) (NN rank) ] [PP (IN of) ] [NP (DT each) (NN player) ] (, ,) [PP (IN in) ] [NP (DT the) (NN order) ] [PP (IN of) ] [NP (NN west) ] [PP (TO to) ] [ADJP (JJ east) ] (. .)
+(. .)

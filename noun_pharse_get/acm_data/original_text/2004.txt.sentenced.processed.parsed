@@ -1,0 +1,4 @@
+[NP (DT The) (NN input) ] [VP (VBZ contains) ] [NP (IN at) (JJS least) (CD two) ] (, ,) (CC but) [NP (RB no) (JJR more) (IN than) (CD 10000) (NNS lines) ] (. .)
+[NP (DT Each) (NN line) ] [VP (VBZ contains) ] [NP (DT a) (NN word) ] (. .)
+[NP (DT The) (NN length) ] [PP (IN of) ] [NP (DT each) (NN word) ] [VP (VBZ is) ] [NP (IN at) (JJS least) (CD 1) (CC and) (RB no) (JJR more) (IN than) (CD 20) ] (. .)
+[NP (DT All) (NNS words) ] [PP (IN in) ] [NP (DT the) (NN input) ] [VP (VBP are) ] [ADJP (JJ distinct) ] (. .)

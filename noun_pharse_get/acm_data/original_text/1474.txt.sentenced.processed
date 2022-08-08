@@ -1,0 +1,12 @@
+The input contains several floor descriptions. 
+
+Every description starts with the number N of vertices that bound the floor . 
+
+The next N lines contain two integers each, the X and Y coordinates for the N vertices, given in clockwise order. 
+
+All vertices will be distinct and at corners of the polygon. 
+
+Thus the edges alternate between horizontal and vertical. 
+
+A zero value for N indicates the end of the input. 
+

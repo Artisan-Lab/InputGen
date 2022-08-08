@@ -1,0 +1,4 @@
+[NP (DT The) (NN input) ] [VP (VBZ contains) ] [NP (JJ several) (NN test) (NNS cases) ] (. .)
+[NP (DT The) (JJ first) (NN line) ] [PP (IN of) ] [NP (DT each) (NN test) (NN case) ] [VP (VBZ contains) ] [NP (CD two) (NNS integers) (NNP N) (, ,) (NNP K) ] (. .)
+[NP (DT The) (VBG following) (NNP N) (: -) (CD 1) (NNS lines) ] [NP (DT each) ] [VP (VBZ contains) ] [NP (CD three) (NNS integers) (NNP U) (, ,) (NNP V) (, ,) (NNP L) ] (, ,) [NP (WDT which) ] [VP (VBZ means) ] [NP (EX there) ] [VP (VBZ is) ] [NP (DT an) (NN edge) ] [PP (IN between) ] [NP (NN node) (NNP U) (CC and) (NNP V) ] [PP (IN of) ] [NP (NN length) (NNP L) ] (. .)
+[NP (DT The) (JJ last) (NN test) (NN case) ] [VP (VBZ is) (VBN followed) ] [PP (IN by) ] [NP (CD two) (NNS zeros) ] (. .)

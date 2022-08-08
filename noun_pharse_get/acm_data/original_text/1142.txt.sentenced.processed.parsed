@@ -1,0 +1,3 @@
+[NP (DT The) (NN input) (NN file) ] [VP (VBZ consists) ] [PP (IN of) ] [NP (DT a) (NN sequence) ] [PP (IN of) ] [NP (JJ positive) (NNS integers) ] (, ,) [NP (CD one) (NN integer) ] [PP (IN per) ] [NP (NN line) ] (. .)
+[NP (DT Each) (RBR integer) ] [VP (MD will) (VB have) ] [NP (IN at) (JJS most) (CD 8) (NNS digits) ] (. .)
+[NP (DT The) (NN input) ] [VP (VBZ is) (VBN terminated) ] [PP (IN by) ] [NP (DT a) (NN line) ] [VP (VBG containing) ] [NP (DT the) (NN number) (CD 0) ] (. .)

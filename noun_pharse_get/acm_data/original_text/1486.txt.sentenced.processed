@@ -1,0 +1,16 @@
+The input consists of several heap descriptions. 
+
+Each heap descriptions starts with a line containing a single integer N, the number of slides in the heap. 
+
+The following N lines contain four integers xmin, xmax, ymin and ymax, each, the bounding coordinates of the slides. 
+
+The slides will be labeled as A, B, C, ... 
+
+in the order of the input. 
+
+This is followed by N lines containing two integers each, the X- and Y-coordinates of the N numbers printed on the slides. 
+
+The first coordinate pair will be for number 1, the next pair for 2, etc. No number will lie on a slide boundary. 
+
+The input is terminated by a heap description starting with N=0, which should not be processed. 
+

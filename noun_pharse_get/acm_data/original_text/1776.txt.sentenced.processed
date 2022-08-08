@@ -1,0 +1,14 @@
+Input contains several testcases. 
+
+For each testcase, the first line contains only one integer N, , representing the number of tasks Tom has received. 
+
+Then N lines follow. 
+
+Each line contains N integers, 0 or 1, separated by white spaces. 
+
+If the jth integer in the ith line is 1, then the machine can smoothly move from task I to task J, otherwise the machine can not smoothly move from task I to task J. 
+
+The tasks are numbered from 1 to N. 
+
+Input is terminated by end of file. 
+

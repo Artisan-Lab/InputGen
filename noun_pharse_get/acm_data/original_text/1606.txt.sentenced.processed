@@ -1,0 +1,6 @@
+Input to your program consists of a series of input lines each defining one puzzle. 
+
+Input for each puzzle is a single line of three positive integers: Ca, Cb, and N. Ca and Cb are the capacities of jugs A and B, and N is the goal. 
+
+You can assume 0 < Ca <= Cb and N <= Cb <=1000 and that A and B are relatively prime to one another. 
+

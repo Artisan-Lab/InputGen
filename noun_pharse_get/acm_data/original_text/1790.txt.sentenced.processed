@@ -1,0 +1,8 @@
+The input file consists of several lines. 
+
+Each line contains one code, I.E., the string consisting of decimal digits. 
+
+The maximum length of any code is 35, the minimum length is 1. 
+
+The last line of the input file contains a single hash character . 
+

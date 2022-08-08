@@ -1,0 +1,6 @@
+The input consists of a number of cases. 
+
+The first line of each case contains the integer N, or 0 if there are no more cases. 
+
+The next line contains the integers L and C. These are followed by N integers T1, T2, ..., TN. 
+

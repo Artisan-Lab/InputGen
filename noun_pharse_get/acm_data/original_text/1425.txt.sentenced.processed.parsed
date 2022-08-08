@@ -1,0 +1,4 @@
+[NP (DT The) (NN input) (NN file) ] [VP (VBZ contains) ] [NP (JJ several) (NNS lines) ] [PP (IN of) ] [NP (NN input) ] (. .)
+[NP (DT Each) (NN line) ] [VP (VBZ contains) ] [NP (DT a) (JJ single) (JJR integer) (NNP L) ] [NP (WDT that) ] [VP (VBZ indicates) ] [NP (DT the) (NN number) ] [PP (IN of) ] [NP (NNS locations) ] [PP (IN in) ] [NP (DT the) (NN city) ] (. .)
+[NP (NNP Input) ] [VP (VBZ is) (VBN terminated) ] [PP (IN by) ] [NP (DT a) (NN line) ] [ADVP (WRB where) ] [NP (NN value) ] [PP (IN of) ] [NP (NNP L) ] [VP (VBZ is) ] [NP (CD zero) ] (. .)
+[NP (DT This) (NN line) ] [VP (MD should) (RB not) (VB be) (VBN processed) ] (. .)

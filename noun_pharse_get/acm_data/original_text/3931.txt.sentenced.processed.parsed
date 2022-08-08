@@ -1,0 +1,4 @@
+[NP (DT The) (NN input) ] [VP (VBZ consists) ] [PP (IN of) ] [NP (JJ several) (NNS cases) ] (. .)
+[NP (DT Every) (NN case) ] [VP (VBZ is) ] [NP (CD one) (NN line) ] [PP (IN with) ] [NP (CD two) (JJ positive) (JJR integer) (NNP M) (CC and) (NNP K) ] (. .)
+[NP (NNP M) ] [VP (VBZ is) ] [NP (NNP Mike'S) (NN number) ] [PP (IN in) ] [NP (DT the) (NN game) ] (, ,) (CC and) [NP (NNP K) ] [VP (VBZ is) ] [NP (DT the) (JJ total) (NN number) ] [PP (IN of) ] [NP (NNS people) ] [VP (VBD remained) ] [PP (IN in) ] [NP (DT the) (NN circle) ] [ADVP (WRB when) ] [NP (NNP Mike) ] [VP (VBD was) (VBG going) (TO to) (VB be) (VBN kicked) ] [PRT (RP out) ] (. .)
+[NP (DT The) (NN input) ] [VP (VBZ ends) ] [PP (IN with) ] [NP (DT a) (NN line) ] [VP (VBG containing) ] [NP (CD two) (CD zero) ] (. .)

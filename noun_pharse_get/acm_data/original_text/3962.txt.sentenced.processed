@@ -1,0 +1,10 @@
+The first line of the input file contains a single integer number N — the number of points under the dome. 
+
+The following N lines describe points with three floating point numbers XI, YI, and ZI per line — the coordinates of I-th point. 
+
+All coordinates do not exceed 1000 by their absolute value and have at most 2 digits after decimal point. 
+
+All ZI are positive. 
+
+There is at least one point with non-zero XI or YI. 
+

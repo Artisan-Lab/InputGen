@@ -1,0 +1,6 @@
+[NP (DT The) (NN input) ] [VP (VBZ contains) ] [NP (JJ several) (NN test) (NNS cases) ] (. .)
+[NP (DT The) (JJ first) (NN line) ] [PP (IN of) ] [NP (DT each) (NN test) (NN case) ] [VP (VBP contain) ] [NP (CD two) (JJ integer) (NNS numbers) (NNP N) (, ,) (NNP M) ] (, ,) [VP (VBG denoting) ] [NP (DT the) (NN number) ] [PP (IN of) ] [NP (NNS rows) (CC and) (NNS columns) ] [PP (IN of) ] [NP (DT the) (NN farm) ] (. .)
+[NP (DT The) (VBG following) (NNP N) (NNS lines) ] [NP (DT each) ] [VP (VBZ contains) ] [NP (NNP M) (NNS characters) ] (, ,) [VP (VBP describe) ] [NP (DT the) (NN farm) ] (. .)
+[NP (NNP A) ('' ') (NN #') ] [VP (VBZ means) ] [NP (DT a) (VBN blocked) (NN square) ] (, ,) [NP (DT a) ('' ') (NN .') ] (. .)
+[VP (VBZ means) ] [NP (DT a) (VBN unblocked) (NN square) ] (. .)
+[NP (DT The) (JJ last) (NN test) (NN case) ] [VP (VBZ is) (VBN followed) ] [PP (IN by) ] [NP (CD two) (NNS zeros) ] (. .)

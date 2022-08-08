@@ -1,0 +1,1 @@
+You will receive  a description of a configuration of the 8 puzzle.  The description is just a list of the tiles in their initial positions, with the rows listed from top to bottom, and the tiles listed from left to right within a row, where the tiles are represented by numbers 1 to 8, plus 'x'.  For example, this puzzle is described by this list: 

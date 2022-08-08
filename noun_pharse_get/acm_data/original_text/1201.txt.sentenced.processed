@@ -1,0 +1,6 @@
+The first line of the input contains an integer N -- the number of intervals. 
+
+The following N lines describe the intervals. 
+
+The -th line of the input contains three integers AI, BI and CI separated by single spaces and such that 0 <= AI <= BI <= 50000 and 1 <= CI <= BI - AI+1. 
+

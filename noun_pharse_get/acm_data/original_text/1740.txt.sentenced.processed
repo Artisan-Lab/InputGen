@@ -1,0 +1,8 @@
+The input contains several test cases. 
+
+The first line of each test case contains an integer number N, denoting the number of piles. 
+
+The following N integers describe the number of stones in each pile at the beginning of the game, you may assume the number of stones in each pile will not exceed 100. 
+
+The last test case is followed by one zero. 
+

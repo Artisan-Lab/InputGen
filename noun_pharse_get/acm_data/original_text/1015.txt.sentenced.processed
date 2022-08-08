@@ -1,0 +1,14 @@
+The input file contains several jury selection rounds. 
+
+Each round starts with a line containing two integers N and M. 
+
+N is the number of candidates and M the number of jury members. 
+
+These values will satisfy 1<=N<=200, 1<=M<=20 and of course M<=N. 
+
+The following N lines contain the two integers PI and DI for I = 1,...,N. 
+
+A blank line separates each round from the next. 
+
+The file ends with a round that has N=M=0. 
+

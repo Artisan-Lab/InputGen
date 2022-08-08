@@ -1,0 +1,4 @@
+[NP (DT The) (JJ first) (NN line) ] [PP (IN of) ] [NP (DT the) (NN input) ] [VP (VBZ contains) ] [NP (CD three) (NNS integers) (NNP N) (, ,) (NNP S) (CC and) (NNP T) ] (. .)
+[NP (DT Each) ] [PP (IN of) ] [NP (DT the) (VBG following) (NNP N) (NNS lines) ] [VP (VBZ contains) ] [NP (NNP N) (NNS integers) ] (. .)
+[SBAR (IN If) ] [NP (NNP I) ] [VP (VBZ knows) ] [NP (NNP J'S) (NN number) ] (, ,) [ADVP (RB then) ] [NP (DT the) (NNP J-th) (NN number) ] [PP (IN in) ] [NP (DT the) (: -) (NN th) (NN line) ] [VP (MD will) (VB be) ] [NP (CD 1) ] (, ,) [VP (RB otherwise) ] [NP (DT the) (NN number) ] [VP (MD will) (VB be) ] [NP (CD 0) ] (. .)
+[NP (PRP You) ] [VP (MD can) (VB assume) ] [SBAR (IN that) ] [NP (DT the) (NN number) ] [PP (IN of) ] [NP (NN 1s) ] [VP (MD will) (RB not) (VB exceed) ] [NP (CD 5000) ] [PP (IN in) ] [NP (DT the) (NN input) ] (. .)

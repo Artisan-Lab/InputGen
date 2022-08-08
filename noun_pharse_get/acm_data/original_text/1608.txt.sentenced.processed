@@ -1,0 +1,6 @@
+The first line of the input file contains an integer N. The next line contains a string representing the ticket number. 
+
+If some digit is punched out it is denoted by "?" 
+
+otherwise it is denoted by itself. 
+

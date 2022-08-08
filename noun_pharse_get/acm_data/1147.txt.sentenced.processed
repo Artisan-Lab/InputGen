@@ -1,0 +1,4 @@
+The first line contains one integer N ≤ 3000, the number of binary digits in the binary string. 
+
+The second line contains N integers, the binary digits in the last column from top to bottom. 
+

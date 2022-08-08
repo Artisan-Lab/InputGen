@@ -1,0 +1,6 @@
+The first line of the input contains two integers: N and S, 1 <= N <= 100000, 1 <= S <= N. N is the total number of intersections; S is ordinal number of the snow plovers starting intersection. 
+
+Intersections are marked with numbers 1...N. 
+
+Each of the next N-1 lines contains three integers: A, B and C, meaning that intersections A and B are directly connected by a street and that street'S length is C meters, 1 <= C <= 1000. 
+

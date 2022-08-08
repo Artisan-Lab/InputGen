@@ -1,0 +1,12 @@
+On the first line of the input is a single positive integer N, telling the number of test scenarios to follow. 
+
+Each scenario begins with a line containing two positive integers M and S, 1 <= M <= 200,1 <= S <= 1000 being the number of junctions and streets, respectively. 
+
+The following S lines contain the streets. 
+
+Each street is described with three integers, XI, YI, and DI, 1 <= XI,YI <= M, 0 <= DI <= 1, where XI and YI are the junctions connected by a street. 
+
+If DI=1, then the street is a one-way street , otherwise it'S a two-way street. 
+
+You may assume that there exists a junction from where all other junctions can be reached. 
+

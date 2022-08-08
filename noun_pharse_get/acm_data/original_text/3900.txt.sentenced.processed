@@ -1,0 +1,8 @@
+The first line contains a single integer T – the number of test cases. 
+
+Each test case starts with a line containing two integers N and M separated by a single space. 
+
+The next line contains N integers WK separated by single spaces. 
+
+The following line contains N integers CK separated by single spaces. 
+

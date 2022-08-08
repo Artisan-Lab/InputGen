@@ -1,0 +1,3 @@
+[NP (DT The) (JJ first) (NN line) ] [PP (IN of) ] [NP (DT the) (NN input) ] [VP (VBZ contains) ] [NP (DT an) (JJR integer) (NNP N) ] (: --) [NP (DT the) (NN number) ] [PP (IN of) ] [NP (NNS intervals) ] (. .)
+[NP (DT The) (VBG following) (NNP N) (NNS lines) ] [VP (VBP describe) ] [NP (DT the) (NNS intervals) ] (. .)
+[NP (DT The) (: -) (NN th) (NN line) ] [PP (IN of) ] [NP (DT the) (NN input) ] [VP (VBZ contains) ] [NP (CD three) (NNS integers) (NNP AI) (, ,) (NNP BI) (CC and) (NNP CI) (JJ separated) ] [PP (IN by) ] [NP (JJ single) (NNS spaces) ] (CC and) [NP (JJ such) (IN that) (CD 0) (NN <) ] [NP (SYM =) (NNP AI) (NN <) (SYM =) (NNP BI) (NN <) (SYM =) (CD 50000) (CC and) (CD 1) (NN <) (SYM =) (NNP CI) (NN <) (SYM =) (NNP BI) ] (: -) [NP (NNP AI) (NN +) (CD 1) ] (. .)

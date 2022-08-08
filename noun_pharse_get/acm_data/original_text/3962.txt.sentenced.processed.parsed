@@ -1,0 +1,5 @@
+[NP (DT The) (JJ first) (NN line) ] [PP (IN of) ] [NP (DT the) (NN input) (NN file) ] [VP (VBZ contains) ] [NP (DT a) (JJ single) (JJR integer) (NN number) (NNP N) (NN —) ] [NP (DT the) (NN number) ] [PP (IN of) ] [NP (NNS points) ] [PP (IN under) ] [NP (DT the) (NN dome) ] (. .)
+[NP (DT The) (VBG following) (NNP N) (NNS lines) ] [VP (VBP describe) ] [NP (NNS points) ] [PP (IN with) ] [NP (CD three) (VBG floating) (NN point) (NNS numbers) (NNP XI) (, ,) (NNP YI) (, ,) (CC and) (NNP ZI) ] [PP (IN per) ] [NP (NN line) (NN —) ] [NP (DT the) (VBZ coordinates) ] [PP (IN of) ] [NP (NNP I-th) (NN point) ] (. .)
+[NP (DT All) ] [VP (VBZ coordinates) (VB do) (RB not) (VB exceed) ] [NP (CD 1000) ] [PP (IN by) ] [NP (PRP$ their) (JJ absolute) (NN value) ] (CC and) [VP (VBP have) ] [NP (IN at) (JJS most) (CD 2) (NNS digits) ] [PP (IN after) ] [NP (JJ decimal) (NN point) ] (. .)
+[NP (DT All) (NNP ZI) ] [VP (VBP are) ] [ADJP (JJ positive) ] (. .)
+[NP (EX There) ] [VP (VBZ is) ] [PP (IN at) ] [NP (JJS least) (CD one) (NN point) ] [PP (IN with) ] [NP (NN non-zero) (NNP XI) (CC or) (NNP YI) ] (. .)

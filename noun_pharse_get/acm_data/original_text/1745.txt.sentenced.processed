@@ -1,0 +1,6 @@
+The first line of the input file contains two integers, N and K separated by a space. 
+
+The second line contains a sequence of N integers separated by spaces. 
+
+Each integer is not greater than 10000 by it'S absolute value. 
+

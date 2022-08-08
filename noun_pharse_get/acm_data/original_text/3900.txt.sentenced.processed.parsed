@@ -1,0 +1,4 @@
+[NP (DT The) (JJ first) (NN line) ] [VP (VBZ contains) ] [NP (DT a) (JJ single) (JJR integer) (NNP T) (NN –) ] [NP (DT the) (NN number) ] [PP (IN of) ] [NP (NN test) (NNS cases) ] (. .)
+[NP (DT Each) (NN test) (NN case) ] [VP (VBZ starts) ] [PP (IN with) ] [NP (DT a) (NN line) ] [VP (VBG containing) ] [NP (CD two) (NNS integers) (NNP N) (CC and) (NNP M) (JJ separated) ] [PP (IN by) ] [NP (DT a) (JJ single) (NN space) ] (. .)
+[NP (DT The) (JJ next) (NN line) ] [VP (VBZ contains) ] [NP (NNP N) (NNS integers) (NNP WK) (JJ separated) ] [PP (IN by) ] [NP (JJ single) (NNS spaces) ] (. .)
+[NP (DT The) (JJ following) (NN line) ] [VP (VBZ contains) ] [NP (NNP N) (NNS integers) (NNP CK) (JJ separated) ] [PP (IN by) ] [NP (JJ single) (NNS spaces) ] (. .)

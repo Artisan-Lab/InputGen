@@ -1,0 +1,2 @@
+[NP (DT The) (NN input) ] [VP (VBZ starts) ] [PP (IN with) ] [NP (NN line) ] [VP (VBG containing) ] [NP (DT a) (JJ single) (JJR integer) (NNP N) (, ,) (CD 0) (NN <) (NNP N) (NN <) ] [NP (CD 30) ] (, ,) [NP (WDT which) ] [VP (VBZ is) ] [NP (DT the) (NN number) ] [PP (IN of) ] [NP (NNS groups) ] [VP (TO to) (VB process) ] (. .)
+[PP (VBG Following) ] [NP (DT this) ] [VP (VBP are) ] [NP (NNP N) (NNS lines) ] (, ,) [NP (DT each) ] [VP (VBG containing) ] [NP (CD three) (JJ distinct) (JJ positive) (NNS integers) ] [NP (JJR less) (IN than) (CD 100) ] (. .)

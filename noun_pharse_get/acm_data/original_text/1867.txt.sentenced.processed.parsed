@@ -1,0 +1,3 @@
+[NP (DT The) (JJ first) (NN line) ] [PP (IN of) ] [NP (NN input) ] [VP (VBZ contains) ] [NP (NNP T) ] (, ,) [NP (DT the) (NN number) ] [PP (IN of) ] [NP (NN test) (NNS cases) ] (. .)
+[NP (DT Each) (NN test) (NN case) ] [VP (VBZ consists) ] [PP (IN of) ] [NP (CD two) (NNS lines) ] (, ,) [NP (DT each) (VBG specifying) ] [NP (DT a) (NN tree) ] [PP (IN in) ] [NP (DT the) (NN notation) ] [VP (VBD described) ] [PP (IN above) ] (. .)
+[NP (DT Each) (NN line) ] [VP (MD will) (VB contain) ] [NP (IN at) (JJS most) (CD 200) (NNS characters) ] (, ,) (CC and) [NP (DT no) (JJ white) (NN space) ] (. .)

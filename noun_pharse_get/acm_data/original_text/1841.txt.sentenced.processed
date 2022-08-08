@@ -1,0 +1,4 @@
+The first line of the input consists of two natural numbers F and B; 1 <= F <= 2000, 1 <= B <= F, F is the number of flowers in the meadow and B is the number of bees available for collecting pollen. 
+
+Each of the next C lines contains two natural numbers X and Y, 1 <= X,Y <= 10000, the coordinates of a flower. 
+

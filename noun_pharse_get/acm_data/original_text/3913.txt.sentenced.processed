@@ -1,0 +1,4 @@
+The input starts with line containing a single integer N, 0 < N < 30, which is the number of groups to process. 
+
+Following this are N lines, each containing three distinct positive integers less than 100. 
+

@@ -1,0 +1,1 @@
+The input consists of T  test cases. The number of test cases  ) (T  is given in the first line of the input file. Each test case consists of two lines: each line contains an integer, the length of a gene, followed by a gene sequence. The length of each gene sequence is at least one and does not exceed 100. 

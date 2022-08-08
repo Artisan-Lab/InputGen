@@ -1,0 +1,3 @@
+[NP (DT The) (JJ first) (NN line) ] [PP (IN of) ] [NP (DT the) (NN input) (NN file) ] [VP (VBZ contains) ] [NP (CD two) (NNS integers) (, ,) (NNP N) (CC and) (NNP K) (JJ separated) ] [PP (IN by) ] [NP (DT a) (NN space) ] (. .)
+[NP (DT The) (JJ second) (NN line) ] [VP (VBZ contains) ] [NP (DT a) (NN sequence) ] [PP (IN of) ] [NP (NNP N) (NNS integers) ] [ADJP (JJ separated) ] [PP (IN by) ] [NP (NNS spaces) ] (. .)
+[NP (DT Each) (RBR integer) ] [VP (VBZ is) ] (RB not) [NP (JJR greater) (IN than) (CD 10000) ] [PP (IN by) ] [NP (NN it'S) (JJ absolute) (NN value) ] (. .)

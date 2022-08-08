@@ -1,0 +1,8 @@
+The input contains several lines, one for each number to be displayed. 
+
+Each line contains two integers S, N , where N is the number to be displayed and S is the size in which it shall be displayed. 
+
+The input file will be terminated by a line containing two zeros. 
+
+This line should not be processed. 
+

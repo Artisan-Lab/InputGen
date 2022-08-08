@@ -1,0 +1,12 @@
+Your program is to read from standard input. 
+
+The input contains the initial board configuration, encoded as a character string. 
+
+The string contains a sequence of up to 64 distinct board positions, being the first one the position of the king and the remaining ones those of the knights. 
+
+Each position is a letter-digit pair. 
+
+The letter indicates the horizontal board coordinate, the digit indicates the vertical board coordinate. 
+
+0 <= number of knights <= 63 
+

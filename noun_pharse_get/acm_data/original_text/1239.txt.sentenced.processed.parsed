@@ -1,0 +1,3 @@
+[NP (NNP Input) ] [VP (MD will) (VB consist) ] [PP (IN of) ] [NP (JJ multiple) (NN test) (NNS cases) ] (. .)
+[NP (DT Each) (NN case) ] [VP (MD will) (VB consist) ] [PP (IN of) ] [NP (CD one) (NN line) ] (, ,) [VP (VBG containing) ] [NP (DT a) (NN string) ] [PP (IN of) ] [NP (NNS digits) ] [PP (IN of) ] [NP (NN maximum) (NN length) ] [NP (CD 80) ] (. .)
+[NP (DT A) (NN line) ] [VP (VBG consisting) ] [PP (IN of) ] [NP (DT a) (JJ single) (CD 0) (NNS terminates) (NN input) ] (. .)

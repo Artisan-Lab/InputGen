@@ -1,0 +1,4 @@
+The first line of input contains a single integer T – a number of test cases. 
+
+Every test case starts with a line containing two integers separated by a single space – N and M. Each of the next M lines will contain two integers AI and BI separated by a single space – the labels of cities that I-th road connects. 
+

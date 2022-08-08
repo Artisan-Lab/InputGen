@@ -1,0 +1,16 @@
+The first line of the input contains a single positive integer N, specifying the number of test scenarios to follow. 
+
+Each test scenario begins with a line containing an integer M, the number of obstacles in the park . 
+
+The next line contains the coordinates of the M obstacles,in the order X1 Y1 X2 Y2 X3 Y3 . 
+
+. 
+
+. 
+
+. 
+
+All coordinates are integers in the range [0, 1000]. 
+
+Each scenario has at least three obstacles that are not on a straight line, and no two obstacles have the same coordinates. 
+

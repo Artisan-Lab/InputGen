@@ -1,0 +1,14 @@
+The first line contains a single integer T that indicates the number of test cases. 
+
+Then follow the T cases. 
+
+Each test case begins with a line contains an integer N , representing the size of wall. 
+
+The next N lines represent the original wall. 
+
+Each line contains N characters. 
+
+The J-th character of the I-th line figures out the color of brick at position . 
+
+We use a 'W' to express a white brick while a 'Y' to express a yellow brick. 
+

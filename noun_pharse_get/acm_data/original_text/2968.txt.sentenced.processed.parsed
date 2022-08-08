@@ -1,0 +1,3 @@
+[NP (DT The) (JJ first) (NN line) ] [PP (IN of) ] [NP (DT the) (NN input) ] [VP (VBZ contains) ] [NP (CD one) (JJ integer) (NN number) (NNP N) ] (. .)
+[NP (DT Each) ] [PP (IN of) ] [NP (DT the) (JJ next) (NNP N) (NNS lines) ] [VP (VBZ contains) ] [NP (CD two) (JJ real) (NNS numbers) (NNP XI) (, ,) (NNP YI) ] (, ,) [VP (JJ separated) ] [PP (IN by) ] [NP (CD one) (NN space) ] (. .)
+[NP (PRP It) ] [VP (VBZ is) (VBN guaranteed) ] [SBAR (IN that) ] [NP (IN at) (JJS least) (CD one) (NN necklace) ] [VP (VBZ exists) ] (. .)

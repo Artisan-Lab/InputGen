@@ -1,0 +1,8 @@
+The first line of the input contains one integer N being the number of vertices of the polygon. 
+
+The second line of the input contains N integers A1, A2,..., an separated by single spaces. 
+
+Integer AI is the number of green pieces adjoining the I-th vertex of the polygon. 
+
+The side of the polygon connecting the N-th and the first vertex always lies between two hexagons. 
+

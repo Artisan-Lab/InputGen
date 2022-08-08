@@ -1,0 +1,6 @@
+The first line of input contains two positive integers: the number of crossing points N<=100 and the number of roads M<=10000. 
+
+Each of the next M lines describes one road. 
+
+It contains 3 positive integers: the number of its first crossing point, the number of the second one, and the length of the road . 
+

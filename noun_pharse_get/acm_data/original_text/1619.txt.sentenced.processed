@@ -1,0 +1,8 @@
+Input consists of a number of test cases. 
+
+Each case will be a line containing a single integer N, 1 <= N <= 300000. 
+
+An input of 0 follows the last test case. 
+
+Note that the portion of the EKG sequence that contains all integers <= 300,000 will not contain an integer >1,000,000. 
+

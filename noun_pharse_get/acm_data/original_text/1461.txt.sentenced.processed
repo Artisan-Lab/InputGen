@@ -1,0 +1,6 @@
+Your program has to be ready to solve more than one test case. 
+
+The first line of the input will contains only the number T of the test cases. 
+
+Each of the following T lines will describe one function - first the numbers N and K separated by single space and then, separated by one more space a string of 2^N 0'S and 1'S that are the coefficients of the corresponding polynomial, ordered as in the general form of the polynomial given above. 
+

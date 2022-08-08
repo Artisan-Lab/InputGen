@@ -1,0 +1,8 @@
+The input contains several test cases. 
+
+The first line of each test case contains two integers N, K. 
+
+The following N-1 lines each contains three integers U,V,L, which means there is an edge between node U and V of length L. 
+
+The last test case is followed by two zeros. 
+

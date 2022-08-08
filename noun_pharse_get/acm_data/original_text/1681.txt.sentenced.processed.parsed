@@ -1,0 +1,7 @@
+[NP (DT The) (JJ first) (NN line) ] [VP (VBZ contains) ] [NP (DT a) (JJ single) (JJR integer) (NNP T) ] [NP (WDT that) ] [VP (VBZ indicates) ] [NP (DT the) (NN number) ] [PP (IN of) ] [NP (NN test) (NNS cases) ] (. .)
+(RB Then) [VP (VB follow) ] [NP (DT the) (NNP T) (NNS cases) ] (. .)
+[NP (DT Each) (NN test) (NN case) ] [VP (VBZ begins) ] [PP (IN with) ] [NP (DT a) (NN line) ] [VP (VBZ contains) ] [NP (DT an) (JJR integer) (NNP N) ] (, ,) [VP (VBG representing) ] [NP (DT the) (NN size) ] [PP (IN of) ] [NP (NN wall) ] (. .)
+[NP (DT The) (JJ next) (NNP N) (NNS lines) ] [VP (VBP represent) ] [NP (DT the) (JJ original) (NN wall) ] (. .)
+[NP (DT Each) (NN line) ] [VP (VBZ contains) ] [NP (NNP N) (NNS characters) ] (. .)
+[NP (DT The) (NNP J-th) (NN character) ] [PP (IN of) ] [NP (DT the) (NNP I-th) (NN line) ] [VP (VBZ figures) ] [PRT (RP out) ] [NP (DT the) (NN color) ] [PP (IN of) ] [NP (NN brick) ] [PP (IN at) ] [NP (NN position) ] (. .)
+[NP (PRP We) ] [VP (VBP use) ] [NP (DT a) (NN 'W') ] [VP (TO to) (VB express) ] [NP (DT a) (JJ white) (NN brick) ] [SBAR (IN while) ] [NP (DT a) (NN 'Y') ] [VP (TO to) (VB express) ] [NP (DT a) (JJ yellow) (NN brick) ] (. .)

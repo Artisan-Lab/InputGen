@@ -1,0 +1,12 @@
+The input file contains several descriptions of fastfood chains. 
+
+Each description starts with a line containing the two integers N and K. 
+
+N and K will satisfy 1 <= N <= 200, 1 <= K <= 30, K <= N. 
+
+Following this will N lines containing one integer each, giving the positions DI of the restaurants, ordered increasingly. 
+
+The input file will end with a case starting with N=K=0. 
+
+This case should not be processed. 
+

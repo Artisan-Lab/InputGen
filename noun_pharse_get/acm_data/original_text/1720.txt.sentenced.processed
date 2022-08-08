@@ -1,0 +1,6 @@
+The first line of the input contains the integer N, 1 <= N <= 1000, the number of squares. 
+
+Each of the following N lines describes a square by specifying integers X, Y and L separated by single blank characters, 1 <= X, Y, L <= 10000. 
+
+X and Y are coordinates of the lower left corner and L is the side length. 
+

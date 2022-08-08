@@ -1,0 +1,4 @@
+[NP (DT The) (NN input) ] [VP (VBZ contains) ] [NP (JJ several) (NNS lines) ] (, ,) [NP (CD one) ] [PP (IN for) ] [NP (DT each) (NN number) ] [VP (TO to) (VB be) (VBN displayed) ] (. .)
+[NP (DT Each) (NN line) ] [VP (VBZ contains) ] [NP (CD two) (NNS integers) (NNP S) (, ,) (NNP N) ] (, ,) [ADVP (WRB where) ] [NP (NNP N) ] [VP (VBZ is) ] [NP (DT the) (NN number) ] [VP (TO to) (VB be) (VBN displayed) ] (CC and) [NP (NNP S) ] [VP (VBZ is) ] [NP (DT the) (NN size) ] [PP (IN in) ] [NP (WDT which) ] [NP (PRP it) ] [VP (MD shall) (VB be) (VBN displayed) ] (. .)
+[NP (DT The) (NN input) (NN file) ] [VP (MD will) (VB be) (VBN terminated) ] [PP (IN by) ] [NP (DT a) (NN line) ] [VP (VBG containing) ] [NP (CD two) (NNS zeros) ] (. .)
+[NP (DT This) (NN line) ] [VP (MD should) (RB not) (VB be) (VBN processed) ] (. .)

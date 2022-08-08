@@ -1,0 +1,6 @@
+The first line of input contains T, the number of test cases. 
+
+Each test case consists of two lines, each specifying a tree in the notation described above. 
+
+Each line will contain at most 200 characters, and no white space. 
+

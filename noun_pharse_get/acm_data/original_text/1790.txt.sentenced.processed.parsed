@@ -1,0 +1,4 @@
+[NP (DT The) (NN input) (NN file) ] [VP (VBZ consists) ] [PP (IN of) ] [NP (JJ several) (NNS lines) ] (. .)
+[NP (DT Each) (NN line) ] [VP (VBZ contains) ] [NP (CD one) (NN code) ] (, ,) [NP (NNP I.E.) ] (, ,) [NP (DT the) (NN string) ] [VP (VBG consisting) ] [PP (IN of) ] [NP (JJ decimal) (NNS digits) ] (. .)
+[NP (DT The) (JJ maximum) (NN length) ] [PP (IN of) ] [NP (DT any) (NN code) ] [VP (VBZ is) ] [NP (CD 35) ] (, ,) [NP (DT the) (JJ minimum) (NN length) ] [VP (VBZ is) ] [NP (CD 1) ] (. .)
+[NP (DT The) (JJ last) (NN line) ] [PP (IN of) ] [NP (DT the) (NN input) (NN file) ] [VP (VBZ contains) ] [NP (DT a) (JJ single) (NN hash) (NN character) ] (. .)

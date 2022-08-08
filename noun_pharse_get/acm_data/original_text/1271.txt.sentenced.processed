@@ -1,0 +1,12 @@
+The input will contain no more than 10 test cases. 
+
+Each test case begins with a line containing three integers N,K and H . 
+
+A piece of bread is guaranteed to be a convex polygon of N vertices. 
+
+In the following N lines, each line contains two integers XI and YI, representing the Cartesianism coordinate of the ith vertex. 
+
+The vertices are anti-clockwise numbered. 
+
+The test case containing N=0, K=0, H=0 will terminate the input, you should not give an answer to this case. 
+

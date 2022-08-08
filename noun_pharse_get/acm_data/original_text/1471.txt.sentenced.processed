@@ -1,0 +1,12 @@
+The input contains several triangle descriptions. 
+
+The first line of each description contains an integer N , which gives the height of the triangle. 
+
+The next N lines contain characters of the set {space, #, -} representing the rows of the triangle, where `#' is a black and `-' a white field. 
+
+The spaces are used only to keep the triangle shape in the input by padding at the left end of the lines. 
+
+For each triangle, the number of the characters `#' and `-' per line is odd and decreases from 2N - 1 down to 1. 
+
+The input is terminated by a description starting with N=0. 
+

@@ -1,0 +1,10 @@
+The input contains several test cases. 
+
+The first line of each test case contains two integers N,M.The 
+
+second line contains 2N integers, denoting A1,A2,A3...An,C1,C2,C3...CN 
+
+. 
+
+The last test case is followed by two zeros. 
+

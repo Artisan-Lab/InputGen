@@ -1,0 +1,16 @@
+The input consists of several test cases. 
+
+The first line of each test case contains three positive integers : the first one represents the maximum load that the bridge can sustain B ; the second one represents the length of the bridge L ; and the third one is the number of vehicles in the convoy. 
+
+Each of the next N lines of input contains a pair of positive integers, WI and SI , where WI is the weight of the vehicle and SI is the maximum speed with which this vehicle can travel over the bridge. 
+
+The weights and speeds of the vehicles are specified in the same order as the order in which the vehicles are queued up. 
+
+You can assume that 1 <= N,B,L,S <= 1000 and any I in [1..N]: 
+
+WI <= B. 
+
+After the last vehicle, the next test case description begins. 
+
+The last test case is followed by a line containing three zeros. 
+

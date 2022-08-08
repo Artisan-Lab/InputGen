@@ -1,0 +1,6 @@
+[NP (NNP Input) ] [VP (MD will) (VB consist) ] [PP (IN of) ] [NP (JJ multiple) (NN problem) (NNS instances) ] (. .)
+[NP (DT Each) (NN instance) ] [VP (MD will) (VB start) ] [PP (IN with) ] [NP (DT a) (JJ single) (NN line) ] [VP (VBG containing) ] [NP (CD two) (NNS integers) (NNP N) (CC and) (NNP M) ] (, ,) [VP (VBG indicating) ] [NP (DT the) (NN number) ] [PP (IN of) ] [NP (NNS rows) (CC and) (NNS columns) ] [PP (IN in) ] [NP (DT the) (NN image) ] (. .)
+[NP (DT The) (JJ maximum) (NNS values) ] [PP (IN for) ] [NP (DT these) (NNS integers) ] [VP (VBZ is) ] [NP (CD 128) ] (. .)
+[NP (DT The) (JJ next) (NNP N) (NNS lines) ] [VP (MD will) (DT each) (VB contain) ] [NP (NNP M) (NNS characters) ] [VP (VBG representing) ] [NP (DT the) (NN image) ] [VP (TO to) (VB process) ] (. .)
+[NP (NNP A) (JJ black) (NN pixel) ] [VP (MD will) (VB be) (VBN represented) ] [PP (IN by) ] [NP (DT a) ('' ') (NN 1') ] (, ,) (CC and) [NP (DT a) (JJ white) (NN pixel) ] [VP (MD will) (VB be) (VBN represented) ] [PP (IN by) ] [NP (DT a) ('' ') (NN 0') ] (. .)
+[NP (DT The) (NN input) (NN line) (CD 0) (CD 0) ] [VP (MD will) (VB terminate) ] [NP (NN input) ] (CC and) [VP (MD should) (RB not) (VB be) (VBN processed) ] (. .)

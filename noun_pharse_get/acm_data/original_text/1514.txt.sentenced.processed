@@ -1,0 +1,10 @@
+The first line of input contains the two integers N and M where 0 < N, M <= 500. 
+
+The next line contains P, the number of vertices in the polygon, where 3 <= P <= 8. 
+
+Each of the next P lines contains two integers X and Y where 0 < X < N and 0 < Y < M, specifying the vertices of the polygon. 
+
+The vertices are listed in clockwise order. 
+
+You may assume that the polygon does not intersect itself, and that no three consecutive vertices are colinear. 
+

@@ -1,0 +1,4 @@
+[NP (DT The) (NN input) ] [VP (VBZ contains) ] [NP (JJ several) (NN test) (NNS cases) ] (. .)
+[NP (DT Each) (NN test) (NN case) ] [VP (VBZ contains) ] [NP (DT an) (JJR integer) (NNP N) ] (, ,) [VP (VBG denoting) ] [NP (DT the) (NN number) ] [PP (IN of) ] [NP (NNS vertices) ] (. .)
+[NP (PRP You) ] [VP (MD may) (VB assume) ] [NP (IN that) (CD 1) (NN <) (SYM =) (NNP N) (NN <) ] [NP (SYM =) (CD 50) ] (. .)
+[NP (DT The) (JJ last) (NN test) (NN case) ] [VP (VBZ is) (VBN followed) ] [PP (IN by) ] [NP (CD one) (CD zero) ] (. .)

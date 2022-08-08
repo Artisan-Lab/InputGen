@@ -1,0 +1,3 @@
+[NP (NNP Input) ] [VP (VBZ consists) ] [PP (IN of) ] [NP (JJ several) (NN test) (NNS cases) ] (. .)
+[NP (DT Each) (NN test) (NN case) ] [VP (VBZ is) ] [NP (DT a) (JJ single) (NN line) ] [VP (VBG containing) ] [NP (DT a) (NN string) ] [VP (VBG containing) ] [PP (IN between) ] [NP (CD 1) (CC and) (CD 100) ] [PP (IN of) ] [NP (DT the) (NNS characters) ] (. .)
+[NP (DT A) (NN line) ] [VP (VBG containing) ] [NP (CD 0) ] [VP (VBZ follows) ] [NP (DT the) (JJ last) (NN case) ] (. .)
