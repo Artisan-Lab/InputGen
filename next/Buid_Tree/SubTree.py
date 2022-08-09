@@ -93,16 +93,24 @@ def find_type(key_phrase):
             return tp
 
 
+nlp = spacy.load("en_core_web_sm")
+
+def lemma(word):
+    doc = nlp(word)
+    return doc[0].lemma_
+
 def get_subtree():
     all_subtree = []
 
+    f = open("./requirements", encoding="utf-8")
+    text = f.readlines()
     """nlp处理数据"""
-    nlp = spacy.load("en_core_web_sm")
+    # nlp = spacy.load("en_core_web_sm")
 
-    text = ["The input contains a single integer T that indicates the number of test cases.",
-            "Then follow the T cases.",
-            "Each test case begins with a line contains an Integer N, represent the original wall.",
-            "Each line contains N characters"]
+    # text = ["The input contains a single integer T that indicates the number of test cases.",
+    #         "Then follow the T cases.",
+    #         "Each test case begins with a line contains an Integer N, represent the original wall.",
+    #         "Each line contains N characters"]
     # text = ["Create a custom attribute on the project", "the project id is #%1", "key is #%authority", "the value is #%0."]
     for t in text:
         subtree = SubTree()
@@ -116,14 +124,22 @@ def get_subtree():
         for np in doc.noun_chunks:
             each_sent_noun_phrase.append((np.text, np.root.head.text))
 
-        key_phrases_tag = ["begins", "contains", "with", "follow"]
+        # sent_list = t.split(" ")
+        #
+        # lemma_sent = []
+        # for token in doc:
+        #     lemma_sent.append(token.lemma_)
+
+
+        key_phrases_tag = ["begin with", "contain", "start with", "follow by", "follow", "consist of", "satisfy",
+                           "describe", "have", "encode", "indicate", "give", "include"]
         '''
         each_sent_key_phrases 记录每个句子的关键短语
         ['The input', 'a single integer T']
         '''
 
         for i in each_sent_noun_phrase:
-            if i[1] in key_phrases_tag:
+            if lemma(i[1]) in key_phrases_tag:
                 if '#%' in i[0]:
                     node = subtree.node_list[-1]
                     node.enum = i[0][2:]
