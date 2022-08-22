@@ -5,15 +5,15 @@ The main function of InputGen is to mine the format information of the test case
 
 ## Using InputGen
 
-1.First put the requirement description in the ./next/Build_Tree/requirements folder, UTF-8 encoding.
+1. First put the requirement description in the folder `./next/Build_Tree/requirements`, UTF-8 encoding.
 
 2. Run the file `./next/generation/class_generation.py` to generate the structure file corresponding to the information tree.
 ```bash
 python3 class_generation.py
 ```
-3.结构体文件生成在./next/pre_class.py文件，可以自行查看。
+3.The structure file is generated in the file `./next/pre_class.py`.
 
-4.运行./next/generation/test_case_generation.py文件，最终会生成需求对应的具体测试用例。
+4.Run the file `./next/generation/test_case_generation.py`. Finally, specific test cases corresponding to the requirements will be generated.
 ```bash
 python3 test_case_generation.py
 ```
